@@ -1,43 +1,43 @@
 <div align="center">
 
-  <h1><img src=".github/assets/icon.png" width="42" alt="Vesti Icon" valign="middle">&nbsp;心迹 Vesti</h1>
+<h1><img src=".github/assets/icon.png" width="42" alt="Vesti Icon" valign="middle"> Vesti</h1>
 
-  <!-- 🏆 荣誉徽章 -->
+<!-- 🏆 Badge of Honor -->
   <p align="center" style="opacity: 0.5;">
-    <img src=".github/assets/goldcup.gif" width="32" alt="金奖奖杯" valign="middle">
+<img src=".github/assets/goldcup.gif" width="32" alt="Gold Cup Trophy" valign="middle">
     &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/2026%20AI%20Hackathon%20Tour-全国总决赛%20金奖-FFD700?style=flat&logo=trophy&logoColor=FFD700&labelColor=1a1a2e" alt="2026 AI Hackathon Tour 金奖" valign="middle">
+<img src="https://img.shields.io/badge/2026%20AI%20Hackathon%20Tour-全国总决赛%20金奖-FFD700?style=flat&logo=trophy&logoColor=FFD700&labelColor=1a1a2e" alt="2026 AI Hackathon Tour Gold Award" valign="middle">
     &nbsp;
-    <img src="https://img.shields.io/badge/数字生活与情感赛道-最佳项目-81C784?style=flat&logo=leaf&logoColor=white&labelColor=558B2F" alt="数字生活与情感赛道最佳" valign="middle">
+<img src="https://img.shields.io/badge/数字生活与情感赛道-最佳项目-81C784?style=flat&logo=leaf&logoColor=white&labelColor=558B2F" alt="The best digital life and emotion track" valign="middle">
   </p>
 
-  <p>本地优先的 AI 对话记忆与知识管理中台 | Local-First AI Conversation Memory & Knowledge Hub</p>
+<p>Local-First AI Conversation Memory & Knowledge Hub</p>
 
-  <h3>📷 Vesti 界面概览与核心功能演示</h3>
+<h3>📷 Vesti interface overview and core function demonstration</h3>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
     <tr>
       <td width="50%" align="center" valign="top">
         <img src=".github/assets/showcase.png" alt="Vesti Sidebar Right" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
         <br>
-        <sub><b>沉浸式伴随侧边栏</b><br>在浏览任意网页时随时呼出，无缝衔接当前上下文与历史对话，让灵感捕获如影随形。</sub>
+<sub><b>Immersive accompanying sidebar</b><br> Call it out at any time when browsing any web page, seamlessly connecting the current context and historical conversations, allowing inspiration to be captured as soon as possible. </sub>
       </td>
       <td width="50%" align="center" valign="top">
         <img src=".github/assets/showcase-2.png" alt="Vesti Chats List Left" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
         <br>
-        <sub><b>全局对话全景枢纽</b><br>打破平台间的数据孤岛，集中收纳全网 AI 交互轨迹，以本地优先原则保障你的思维主权。</sub>
+<sub><b>Global dialogue panoramic hub</b><br>Breaks the data islands between platforms, centrally collects the AI ​​interaction tracks of the entire network, and protects your thinking sovereignty with the principle of local priority. </sub>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top">
         <img src=".github/assets/summary-generation-1.png" alt="ChatGPT Summary Capture" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
         <br>
-        <sub><b>语义增强的独立知识看板</b><br>依托本地向量数据库实现跨平台 RAG 检索，精准追溯长时段内的每一次思考演进与认知转折。</sub>
+<sub><b>Semantically enhanced independent knowledge dashboard</b><br>Relying on the local vector database to realize cross-platform RAG retrieval, accurately tracing every evolution of thinking and cognitive transition over a long period of time. </sub>
       </td>
       <td width="50%" align="center" valign="top">
         <img src=".github/assets/summary-generation-2.png" alt="Claude Insights Generation" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
         <br>
-        <sub><b>多智能体驱动的结构化洞察</b><br>后台自动提取复杂对话的关键脉络，生成多维度清晰摘要，一键将思维火花沉淀为永久策展笔记。</sub>
+<sub><b>Multi-agent-driven structured insights</b><br>The background automatically extracts the key context of complex conversations, generates multi-dimensional clear summaries, and deposits sparks of thinking into permanent curatorial notes with one click. </sub>
       </td>
     </tr>
   </table>
@@ -48,7 +48,7 @@
 https://github.com/user-attachments/assets/7d9affef-5a97-4959-aada-c4ef916b80dc
 
 
-  <b>🎥 视频演示-心迹双层系统架构：Chrome扩展捕获引擎与独立知识库记忆看板</b>
+<b>🎥 Video demonstration-Vesti two-tier system architecture: Chrome extension capture engine and independent knowledge base memory board</b>
 
   <br><br>
 
@@ -66,86 +66,86 @@ https://github.com/user-attachments/assets/7d9affef-5a97-4959-aada-c4ef916b80dc
 
 <br>
 <div align="center">
-<p>如果心迹帮你找回过一次思考的轨迹，不妨留下一颗 Star。</p>
+<p>If Vesti helps you find the track of your thoughts, you might as well leave a Star. </p>
 <a href="https://github.com/abraxas914/VESTI">
-  <img src="https://img.shields.io/badge/☆%20Star%20心迹%20Vesti-4B0082?style=for-the-badge&logoColor=FFD700" alt="Star 心迹 Vesti">
+<img src="https://img.shields.io/badge/☆%20Star%20心迹%20Vesti-4B0082?style=for-the-badge&logoColor=FFD700" alt="Star Vesti">
 </a>
 <br><br>
-<sub>也欢迎 <a href="https://github.com/abraxas914/VESTI/fork">Fork</a> 参与建设，或通过 <a href="https://github.com/abraxas914/VESTI/issues">Issue</a> 与我们对话。</sub>
+<sub>We also welcome <a href="https://github.com/abraxas914/VESTI/fork">Fork</a> to participate in the construction, or chat with us through <a href="https://github.com/abraxas914/VESTI/issues">Issue</a>. </sub>
 </div>
 <br>
 ---
 
-## ⚡ 为什么我们需要心迹
+## ⚡ Why we need Vesti
 
-在这个与AI共处的时代，我们的思考方式正在发生深刻的变化。与ChatGPT、Claude等大语言模型的对话已经不再是简单的信息查询，而是成为了思考、创作和决策的核心过程。我们在AI的协助下探索新概念、推演复杂问题、打磨创意方案、澄清模糊直觉。这些对话承载着我们最真实的思维轨迹——那些尚未成型的想法、反复权衡的选择、顿悟的瞬间。
+In this era of coexisting with AI, the way we think is undergoing profound changes. Dialogue with large language models such as ChatGPT and Claude is no longer a simple information query, but has become the core process of thinking, creation and decision-making. With the help of AI, we explore new concepts, deduce complex problems, hone creative solutions, and clarify vague intuitions. These conversations carry the most authentic traces of our thinking—those unformed ideas, repeatedly weighed choices, and moments of epiphany.
 
-但是，现有的AI平台生态存在着一个根本性的异化。我们创造了数据，却从未真正拥有它。
+However, there is a fundamental alienation in the existing AI platform ecology. We create data but never really own it.
 
-### 数据封建主义的困境
-目前的互联网生态本质上是一种WEB 2.0的数字封建制。AI平台是领主，掌握着数据的所有权和解释权。你在ChatGPT上探讨的产品架构、在Claude上咨询的技术方案、在Gemini上研究的市场分析——这些思考成果在法律和技术层面都不属于你，而属于OpenAI、Anthropic、Google。
+### The Dilemma of Data Feudalism
+The current Internet ecosystem is essentially a WEB 2.0 digital feudal system. The AI ​​platform is the lord, holding the ownership and interpretation rights of the data. The product architecture you discussed on ChatGPT, the technical solutions you consulted on Claude, and the market analysis you researched on Gemini—these thinking results do not belong to you at the legal or technical level, but belong to OpenAI, Anthropic, and Google.
 
-这种所有权的异化带来了一系列问题。首先是数据散落。你的思考碎片被锁在不同平台的围墙花园里，微信的数据不会被百度抓取，ChatGPT的历史记录无法导出到Claude。当你需要回溯某个想法时，你必须记得它发生在哪个平台的哪次对话里，否则就永远找不到了。其次是解释权的丧失。平台通过推荐算法和年度总结定义了"什么是重要的"，但这个标准是为了优化平台的商业目标而设计的，而非服务于你的自我理解。你看到的年度报告告诉你"听了多少首歌""聊了多少次天"，但它无法回答"这些对话在你的思想演进中扮演了什么角色"。
+This alienation of ownership brings about a series of problems. The first is data scatter. The fragments of your thoughts are locked in walled gardens on different platforms, WeChat data will not be crawled by Baidu, and ChatGPT history cannot be exported to Claude. When you need to retrace an idea, you have to remember which conversation it took place on which platform, otherwise you’ll never find it. The second is the loss of the right to interpret. The platform defines "what is important" through recommendation algorithms and annual summaries, but this standard is designed to optimize the platform's business goals, not to serve your self-understanding. The annual report you see tells you "how many songs you listened to" and "how many times you chatted", but it cannot answer "what role these conversations played in the evolution of your thoughts."
 
-更深层的问题是思维叙事权的缺失。人类通过叙事定义自己，我们需要能够回顾过去、看清思维的轨迹、理解今天的自己如何从昨天的困惑中走来。但当思考过程都发生在与AI的对话中，而这些对话又散落在不同平台、难以整合、缺乏洞察时，我们实际上失去了为自己的思维写传记的能力。我们拥有数据的碎片，却失去了叙事的完整性。
+The deeper problem is the lack of narrative power of thinking. Human beings define themselves through narrative, and we need to be able to look back on the past, see clearly the trajectory of our thoughts, and understand how today’s selves have emerged from yesterday’s confusion. But when the thinking process all occurs in conversations with AI, and these conversations are scattered on different platforms, difficult to integrate, and lack insight, we actually lose the ability to write a biography of our own thinking. We have fragments of data but lose the integrity of the narrative.
 
-### 注意力主权与意义的关系性
-心迹的第一个核心信念是：注意力主权先于数据主权。真正的主权不仅在于"我拥有我的数据"，更在于"我定义什么数据能代表我"。这意味着我们不试图记录用户的所有数字活动——那会导致信号被噪音淹没。相反，我们提供工具让用户主动或智能地选择什么值得被记住。
+### The relationship between attention sovereignty and meaning
+Vesti’s first core belief is: attention sovereignty comes before data sovereignty. True sovereignty lies not only in "I own my data" but also in "I define what data represents me." This means we don’t try to record all of a user’s digital activity – that would cause the signal to be drowned out by noise. Instead, we provide tools that let users actively or intelligently choose what deserves to be remembered.
 
-这个理念源自一个深刻的认识：在信息过载的时代，意义不在于占有更多数据，而在于识别什么是真正重要的。你可能一周内在多个AI平台上进行了五十次对话，但其中真正承载思考深度的可能只有五次。如果系统盲目地给所有对话同等权重，反而会模糊真正的信号。因此，心迹的设计从一开始就围绕"帮助用户定义自己的意义标准"展开。
+This concept stems from a profound understanding: In an era of information overload, the point is not to possess more data, but to identify what is truly important. You might have fifty conversations on multiple AI platforms in a week, but only five of them might actually carry the depth of thought. If the system blindly gives equal weight to all conversations, it will obscure the real signal. Therefore, Vesti's design from the beginning revolved around "helping users define their own standards of meaning."
 
-心迹的第二个核心信念是：意义是关系性的而非本质性的。一个想法的重要性不来自于它本身，而来自于它与其他想法的关联。当你在不同时间、不同平台上反复讨论某个主题时，这些讨论片段在孤立状态下可能只是零散的问答，但当它们被串联起来时，就会显现出一个完整的思考演进轨迹。这就是为什么我们的架构设计从一开始就为跨对话的语义关联预留了空间——我们不仅要记录思考的快照，更要揭示思考的动态过程。
+Vesti's second core belief is that meaning is relational rather than essential. The importance of an idea comes not from itself but from its connection to other ideas. When you repeatedly discuss a topic at different times and on different platforms, these discussion fragments may be just scattered questions and answers in isolation, but when they are connected in series, they will reveal a complete evolution of thinking. That’s why our architectural design leaves room for semantic associations across conversations from the beginning—we want to not only record snapshots of thinking, but also reveal the dynamic process of thinking.
 
-心迹的第三个核心信念是：技术应该增强而非替代人的判断。AI的角色不是告诉用户"你应该关注什么"，而是帮助用户看清"你实际上在关注什么"。系统通过学习用户的策展模式、观察用户的行为偏好，可以逐步承担起识别潜在重要内容的工作，但最终的决定权始终在用户手中。这是一种协作式的智能——AI提供建议，人做出选择，然后AI从选择中继续学习，形成一个正向的反馈循环。
+Vesti’s third core belief is that technology should enhance, not replace, human judgment. The role of AI is not to tell users "what you should pay attention to", but to help users see "what you are actually paying attention to". By learning the user's curation mode and observing the user's behavioral preferences, the system can gradually take on the task of identifying potentially important content, but the final decision-making power always rests with the user. This is a kind of collaborative intelligence - AI provides suggestions, people make choices, and then AI continues to learn from the choices, forming a positive feedback loop.
 
-心迹的产品图标是一只猫头鹰的简笔轮廓——寥寥数笔，取其神而非其形。这个选择有一层刻意的呼应：黑格尔在《法哲学原理》序言中写道，密涅瓦的猫头鹰只在黄昏时分才展翅起飞。理解总是迟到的，它在事件落幕后才悄然降临，回望白日里发生的一切，赋予它们可被把握的形状。心迹所做的事，与这个意象在结构上是同一件事：你与 AI 的对话发生在白天，思绪流动、片段散落；心迹在黄昏起飞，从各个平台的围墙花园里打捞那些漂移的记忆，将它们重新编织为一条可以回溯的思维轨迹。我们相信，真正的理解从来不发生在当下，而发生在回望之中。
+Vesti's product icon is a simple outline of an owl - a few strokes, based on its spirit rather than its shape. This choice has a deliberate echo: Hegel wrote in the preface to Principles of Right that the owl of Minerva spreads its wings only at dusk. Understanding is always late. It comes quietly after the event is over. Looking back at everything that happened during the day, it gives them a shape that can be grasped. What Vesti does is structurally the same thing as this image: your conversation with the AI ​​takes place during the day, with thoughts flowing and fragments scattered; Vesti takes off at dusk, salvaging those drifting memories from the walled gardens of various platforms, and reweaves them into a traceable thought track. We believe that true understanding never happens in the present, but in looking back.
 
-### 从记录工具到知识中台：一个诚实的演进说明
+### From recording tool to knowledge center: an honest explanation of evolution
 
-在心迹的早期版本里，上述三条信念更多停留在产品哲学的层面。彼时的实现与叙事之间，存在一道真实的落差：我们声称"意义是关系性的"，但产品本身没有任何机制去发现、建立或呈现对话之间的关联。每一条存入本地的对话，都还只是一座孤立的信息孤岛。
+In the early versions of Vesti, the above three beliefs remained more at the level of product philosophy. At that time, there was a real gap between realization and narrative: we claimed that "meaning is relational," but the product itself had no mechanism to discover, establish, or present the connections between conversations. Every conversation stored locally is still just an isolated island of information.
 
-这个落差值得被诚实地承认，因为它正是驱动本轮迭代的核心动力。
+This gap deserves to be honestly acknowledged, because it is the core driving force for this iteration.
 
-心迹当前版本由两个协同工作的层次构成。**捕获引擎层**是 Chrome 浏览器扩展本体，负责跨平台（ChatGPT、Claude、Gemini、DeepSeek、Qwen、Doubao）的对话监听、结构化摘要生成和本地持久化。**知识管理层**是一个基于 `StorageApi` 契约接口构建的独立 Web 视图，提供对话库分类管理（Library）、自然语言知识问答（Explore）、语义关联图谱可视化（Network）和手动策展笔记（Notes）四个核心模块。两层之间通过 Chrome Extension Message 协议通信，UI 层对存储实现完全透明，这保证了 Local-First 架构的纯粹性。
+The current version of Vesti consists of two layers that work together. **Capture engine layer** is the Chrome browser extension ontology, responsible for cross-platform (ChatGPT, Claude, Gemini, DeepSeek, Qwen, Doubao) conversation monitoring, structured summary generation and local persistence. **Knowledge Management** is an independent Web view built on the `StorageApi` contract interface, providing four core modules: dialogue library classification management (Library), natural language knowledge question and answer (Explore), semantic association graph visualization (Network) and manual curation notes (Notes). The two layers communicate through the Chrome Extension Message protocol, and the UI layer is completely transparent to storage, which ensures the purity of the Local-First architecture.
 
-这套架构使得三条核心信念第一次在工程层面获得了具体的对应物。向量知识库的实践落地，让"意义的关系性"有了可计算的语义基础；Gardener 智能体的多步决策链，让"技术增强判断"有了可观测的执行过程；自然语言问答与引用溯源设计，让"注意力主权"有了可交互的产品形态。
+This architecture enables the three core beliefs to obtain specific counterparts at the engineering level for the first time. The practical implementation of vector knowledge base gives "relationship of meaning" a computable semantic basis; the Gardener agent's multi-step decision-making chain gives "technology-enhanced judgment" an observable execution process; natural language question answering and reference traceability design give "attention sovereignty" an interactive product form.
 
-我们不认为这意味着愿景已经实现。向量检索的规模边界、Agent 分类的置信度局限、跨设备同步的缺席——这些都是当前版本的真实约束，并在后续章节中有详细说明。但从这一版本开始，心迹作为"个人 AI 知识中台"的定位，已经有了比哲学叙事更坚实的支撑：可运行的代码，以及在本地浏览器中真实跑通的语义理解流水线。
-
----
+We don't think this means the vision has been realized. The scale bounds of vector retrieval, the confidence limits of agent classification, the absence of cross-device synchronization - these are real constraints of the current version and are detailed in subsequent chapters. But starting from this version, Vesti's positioning as a "personal AI knowledge center" has a more solid support than philosophical narrative: runnable code, and a semantic understanding pipeline that actually runs in the local browser.
 
 ---
 
-## ⭐ 核心功能
+---
 
-心迹当前的能力覆盖从数据捕获到知识沉淀的完整链路，分布在两个协同工作的产品层次上：作为 Chrome 扩展运行的**捕获与洞察引擎**，以及作为独立 Web 视图运行的**知识管理平台**。
-### 🔗 浏览器浮窗 - 扩展程序侧边栏 - 独立知识库视图：咬合衔接管线
+## ⭐ Core Functions
+
+Vesti's current capabilities cover the complete link from data capture to knowledge precipitation, and are distributed at two product levels that work together: the capture and insight engine running as a Chrome extension, and the knowledge management platform running as an independent web view.
+### 🔗 Browser Float - Extension Sidebar - Independent Knowledge Base View: Seamless Integration Pipeline
 
 
 
-### 捕获与洞察引擎（Chrome 扩展）
+### Capture and Insight Engine (Chrome Extension)
 
-* **实时捕获**：当你在 ChatGPT、Claude、Gemini、DeepSeek、Qwen 或 Doubao 页面进行对话时，心迹在后台静默工作，自动提取对话内容并存储到本地 IndexedDB。这个过程完全自动化且不可感知，无需你主动标记或导出。捕获的对话包含完整的多轮问答内容、时间戳、平台标识等元数据，系统能正确识别并避免重复存储。
+* **Real-time capture**: When you have a conversation on the ChatGPT, Claude, Gemini, DeepSeek, Qwen or Doubao page, Vesti works silently in the background, automatically extracts the conversation content and stores it in the local IndexedDB. This process is completely automated and imperceptible, with no need for you to actively tag or export. The captured conversations contain complete multi-round Q&A content, timestamps, platform identification and other metadata, and the system can correctly identify and avoid repeated storage.
 
-* **统一浏览**：在浏览器侧边栏打开心迹，你可以看到按时间排列的所有对话卡片。每张卡片显示对话标题、平台标识、时间戳和消息轮数，悬停后展开摘要预览与快捷操作。
+* **Unified browsing**: Open Vesti in the sidebar of the browser, and you can see all conversation cards arranged by time. Each card displays the conversation title, platform logo, timestamp and message round number, and a summary preview and quick operations will be displayed upon hovering.
 
-* **全文检索**：通过搜索框输入关键词，瞬间定位到包含该词的所有对话。搜索不仅匹配标题，也匹配对话的完整内容，并支持按平台筛选。
+* **Full text search**: Enter a keyword through the search box and instantly locate all conversations containing that word. The search matches not only titles but also the full content of conversations, and supports filtering by platform.
 
-* **悬浮状态胶囊（Capsule）**：在所有支持平台的页面内，心迹以一个轻量悬浮球的形式常驻页面，实时反映当前对话的捕获状态（持续捕获中、已就绪归档、已完成等六种语义态）。折叠为小球时不干扰正常操作，展开后可直接触发归档或打开侧边栏；支持吸边定位与拖拽，位置按域名持久化记忆。明暗双主题与平台色 token 与侧边栏完全对齐，且仅作用于 Shadow DOM 内部，不污染宿主页面样式。
+* **Suspended status capsule (Capsule)**: In the pages of all supported platforms, Vesti resides in the form of a lightweight suspended ball, reflecting the capture status of the current conversation in real time (six semantic states such as continuous capture, ready to archive, and completed). When folded into a small ball, it does not interfere with normal operations. After unfolding, it can directly trigger archiving or open the sidebar; it supports edge-sucking positioning and dragging, and the location is persistently memorized according to the domain name. The light and dark dual themes and platform color tokens are fully aligned with the sidebar, and only act within the Shadow DOM, without polluting the host page style.
 
-* **Thread Summary（结构化摘要）**：集成 ModelScope API，为单个会话生成结构化摘要。这不是简单的内容压缩，而是基于经过版本化管理的提示词工程（Prompt-as-Code），揭示对话的思维轨迹、关键转折和核心洞察。摘要包含核心问题、思考演进、关键洞见、悬而未决的话题和可行的下一步建议，生成结果缓存在本地，支持多层 Fallback 确保极端情况下仍能返回可用结果。
+* **Thread Summary (Structured Summary)**: Integrates with the ModelScope API to generate structured summaries for a single session. This is not a simple content compression, but based on a versioned management prompt word project (Prompt-as-Code), revealing the thinking track, key turns and core insights of the conversation. The summary contains core issues, evolution of thinking, key insights, unresolved topics and feasible next steps. The generated results are cached locally and support multi-layer fallback to ensure that usable results can still be returned in extreme cases.
 
-* **数据管理（Data 页）**：独立的数据管理页面提供存储概览（Overview）、导出与清理操作（Operations）和近期路线图（Roadmap）三组功能。支持 JSON、TXT、Markdown 三种导出格式；双清理动作（对话记录与 Insights 缓存分开处理）防止误操作；存储用量超过阈值时触发软警告或硬限制保护机制。
+* **Data Management (Data Page)**: The independent data management page provides three sets of functions: storage overview (Overview), export and cleanup operations (Operations), and recent roadmap (Roadmap). Supports three export formats: JSON, TXT, and Markdown; dual cleanup actions (conversation records and Insights cache are processed separately) to prevent misoperation; when storage usage exceeds the threshold, a soft warning or hard limit protection mechanism is triggered.
 
-* **本地优先**：所有数据存储在你的本地设备中，不上传到任何云端服务器。你拥有完整的数据主权，可以随时导出、备份或删除。即使开发者也无法访问你的对话记录。这不仅是技术选择，更是价值立场。
+* **Local First**: All data is stored in your local device and is not uploaded to any cloud server. You have complete data sovereignty and can export, back up or delete it at any time. Not even developers can access your conversation history. This is not only a technical choice, but also a value stance.
 
-### 知识管理平台（Web Dashboard）
+### Knowledge Management Platform (Web Dashboard)
 
-### 🧠 知识库应用全链路：Agent 赋能的自主记忆探索平台
+### 🧠 Full link of knowledge base application: Agent-empowered autonomous memory exploration platform
 
 <blockquote>
-  <p>🎨 <b>心迹 (Vesti) 将零散的跨平台对话转化为体系化的个人知识资产：</b><br><br>
-  打破数据围墙，在 <b>Library</b> 中实现思维资产的完整标记、收藏与目录结构化管理；通过 Agent 赋能的 <b>Explore</b> 平台，你可以用自然语言唤醒历史记忆，由系统动态生成 RAG 结构化洞察；最终在 <b>Notes</b> 视图中，将高价值的对话精要一键落库，完成从信息捕获、知识召回到深度内化的全链路闭环。</p>
+<p>🎨 <b>Vesti (Vesti) transforms scattered cross-platform conversations into systematic personal knowledge assets:</b><br><br>
+Break the data wall and realize the complete tagging, collection and directory structure management of thinking assets in <b>Library</b>; through the <b>Explore</b> platform empowered by Agent, you can use natural language to awaken historical memory, and the system dynamically generates RAG structured insights; finally, in the <b>Notes</b> view, high-value conversation essence can be dropped into the library with one click, completing a full closed loop from information capture, knowledge recall to deep internalization. </p>
 </blockquote>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
@@ -153,49 +153,49 @@ https://github.com/user-attachments/assets/7d9affef-5a97-4959-aada-c4ef916b80dc
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/web-view-1.png" alt="Vesti Explore Intent Analysis" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>1. 意图解析与向量检索 (Explore)</b><br>用自然语言向自己的历史思考提问，系统在本地静默完成语义理解与上下文精确召回。</sub>
+<sub><b>1. Intent analysis and vector retrieval (Explore)</b><br>Use natural language to ask questions about your own historical thinking, and the system silently completes semantic understanding and accurate context recall locally. </sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/web-view-2.png" alt="Vesti RAG Insights" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>2. 生成式洞察引擎 (RAG)</b><br>基于召回的专属记忆，Agent 动态合成带有引用的结构化解答，让长时段的隐性知识显性化。</sub>
+<sub><b>2. Generative Insight Engine (RAG)</b><br>Based on the exclusive memory of recall, the Agent dynamically synthesizes structured answers with references, making long-term tacit knowledge explicit. </sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/web-view-3.png" alt="Vesti Library View" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>3. 全景知识枢纽 (Library)</b><br>打破平台孤岛，通过自动语义标记、智能目录归类与相似度计算，实现跨平台思维资产的一站式管理。</sub>
+<sub><b>3. Panoramic Knowledge Hub (Library)</b><br>Breaks platform silos and achieves one-stop management of cross-platform thinking assets through automatic semantic tagging, intelligent catalog classification and similarity calculation. </sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/web-view-4.png" alt="Vesti Notes View" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>4. 沉浸式策展笔记 (Notes)</b><br>将高价值的对话精要一键归纳落库，在极简的纯文本环境中完成个人知识的最终沉淀与内化。</sub>
+<sub><b>4. Immersive Curation Notes (Notes)</b><br> Summarize high-value dialogue essence into the library with one click, and complete the final precipitation and internalization of personal knowledge in a minimalist pure text environment. </sub>
     </td>
   </tr>
 </table>
 
-知识管理平台是心迹在本轮迭代中引入的第二个产品层次，提供四个核心模块。所有数据读写通过统一的 `StorageApi` 接口与底层 IndexedDB 通信，UI 层对存储实现完全透明，Local-First 原则在架构边界上得到严格保障。
+The knowledge management platform is the second product level introduced by Vesti in this iteration, providing four core modules. All data reading and writing communicate with the underlying IndexedDB through the unified `StorageApi` interface. The UI layer is completely transparent to storage, and the Local-First principle is strictly guaranteed at the architectural boundary.
 
-* **Library（对话知识库）**：带有主题分类能力的对话库视图，提供三栏布局——左侧为平台过滤器与 Topic 文件夹树，中间为按时间倒序排列的对话卡片列表，右侧为 Reader View，优先展示 Gardener Agent 分析结果与关联笔记入口，原始对话内容采用渐进式披露以控制信息密度。主题文件夹支持层级结构与自动归类规则，用户也可手动拖拽调整，系统从修正行为中持续学习。
+* **Library (conversation knowledge base)**: A conversation library view with topic classification capabilities, providing a three-column layout - the left side is the platform filter and Topic folder tree, the middle is a list of conversation cards arranged in reverse chronological order, and the right side is the Reader View, which prioritizes the display of Gardener Agent analysis results and associated note entries. The original conversation content adopts progressive disclosure to control information density. Theme folders support hierarchical structure and automatic classification rules. Users can also manually drag and adjust, and the system will continue to learn from corrective actions.
 
-* **Explore（RAG 知识问答）**：基于本地向量知识库的自然语言问答系统。你可以用日常语言询问自己的历史思考，例如"我上个月讨论过哪些关于系统设计的方案"，系统在本地向量库中检索语义最相关的对话，将其作为上下文注入 Prompt，生成有来源引用的结构化回答。每条回答底部展示来源对话卡片，可一键跳转回 Library 中的原始上下文——系统的每一个结论都可以被追溯到你自己说过的话。当本地相关度低于阈值时，系统动态切换至大模型世界知识进行兜底，并在回答中明确标注数据来源类型。
+* **Explore (RAG Questions and Answers)**: A natural language question and answer system based on local vector knowledge base. You can ask yourself about your historical thinking in everyday language, such as "What solutions did I discuss about system design last month?" The system retrieves the most semantically relevant conversations in the local vector library, injects them into Prompt as context, and generates a structured answer with source references. The source dialogue card is displayed at the bottom of each answer, and you can jump back to the original context in the Library with one click - every conclusion of the system can be traced back to what you said yourself. When the local correlation is lower than the threshold, the system dynamically switches to the large model world knowledge for full explanation, and the data source type is clearly marked in the answer.
 
-* **Network（思维图谱）**：基于向量相似度矩阵的知识网络可视化。每个节点代表一条历史对话，节点大小映射讨论深度，颜色与平台设计令牌对齐，边的粗细与透明度直接反映语义相似度强弱（阈值 ≥ 0.4 才建立连接）。技术选型为 ECharts 力导向图，在扩展构建环境中规避了 D3.js 的 ESM 兼容性问题，同时提供流畅的物理模拟动画。Hover 显示节点名称，点击节点可高亮关联子网并从侧边栏跳转回 Library。这是"意义来自关系"这一产品信念第一次在界面上获得直接的视觉形式。
+* **Network**: Knowledge network visualization based on vector similarity matrix. Each node represents a historical conversation, the node size maps the depth of discussion, the color is aligned with the platform design token, and the thickness and transparency of the edge directly reflect the strength of the semantic similarity (connection is established only when the threshold ≥ 0.4). The technology chosen is ECharts force-directed graph, which circumvents the ESM compatibility issues of D3.js in the extended build environment while providing smooth physical simulation animation. Hover displays the node name. Click the node to highlight the associated subnet and jump back to the Library from the sidebar. This is the first time that the product belief that "meaning comes from relationships" has taken a direct visual form on the interface.
 
-* **Notes（策展笔记）**：所见即所得的 Markdown 写作环境，支持将多篇对话的精华沉淀为永久知识。采用双态无缝切换设计：阅读态展现精美排版，点击瞬间切入无边框编辑区，失焦自动保存并返回渲染态。笔记可关联特定对话，也可作为独立条目存在，并参与向量化流程，在 Explore 问答时享有高于普通对话的检索权重——经过人工策展的知识，在系统眼中也更值得被优先引用。
+* **Notes**: A WYSIWYG Markdown writing environment that supports the accumulation of the essence of multiple conversations into permanent knowledge. It adopts a two-state seamless switching design: the reading state displays exquisite typesetting, a click instantly switches to the borderless editing area, and the out-of-focus state automatically saves and returns to the rendering state. Notes can be associated with specific conversations or exist as independent items and participate in the vectorization process. They have a higher retrieval weight than ordinary conversations in Explore questions and answers - knowledge that has been manually curated is also more worthy of being cited first in the eyes of the system.
 
-### Gardener Agent（智能分类引擎）
+### Gardener Agent (intelligent classification engine)
 
-Gardener 是在所有捕获对话的后台异步运行的轻量级智能体，负责将原始对话转化为带有语义标签和主题归属的结构化知识条目。它的执行过程由四个可观测步骤构成，并在 UI 层的 AgentThinkingPanel 中完整呈现：首先对对话进行类型分类（技术讨论、创意探索、问题解决、知识学习、日常闲聊），再根据分类结果动态选择分析策略与工具集，继而完成关键标签提取与主题文件夹匹配，最后进行自我验证以检测语义偏差。
+Gardener is a lightweight agent that runs asynchronously in the background of all captured conversations and is responsible for transforming raw conversations into structured knowledge entries with semantic tags and topic attributions. Its execution process consists of four observable steps and is fully presented in the AgentThinkingPanel at the UI layer: first, the conversation type is classified (technical discussion, creative exploration, problem solving, knowledge learning, daily chat), then the analysis strategy and tool set are dynamically selected based on the classification results, then key tag extraction and topic folder matching are completed, and finally self-verification is performed to detect semantic deviations.
 
-与单步摘要生成不同，Gardener 的决策链具有显式的任务拆解逻辑：对于特征明显的对话，规则引擎直接给出高置信度分类并跳过 API 调用以节省延迟；对于特征模糊的对话，才触发轻量模型介入。每一步的中间结果通过 `AgentStep` 数据结构持久化，可供用户追溯系统如何得出某个分类结论。当用户手动将对话从一个主题文件夹拖拽到另一个时，系统记录此次修正并微调后续的归类规则，形成一个以人类判断为锚点的反馈闭环。
+Different from single-step summary generation, Gardener's decision chain has explicit task disassembly logic: for conversations with obvious features, the rules engine directly gives high-confidence classifications and skips API calls to save latency; for conversations with vague features, lightweight model intervention is triggered. The intermediate results of each step are persisted through the `AgentStep` data structure, allowing users to trace how the system reaches a certain classification conclusion. When a user manually drags a conversation from one topic folder to another, the system records the correction and fine-tunes subsequent classification rules, forming a closed feedback loop anchored by human judgment.
 
-### 🕸️ 知识图谱与本地 RAG：让孤立的思考涌现结构性关联
+### 🕸️ Knowledge graph and local RAG: allowing isolated thinking to emerge with structural connections
 
 <blockquote>
-  <p>🎨 <b>心迹 (Vesti) 致力于揭示“意义的关系性”，让知识在回溯中自然生长：</b><br><br>
-  意义不仅存在于单次对话中，更潜藏于跨时空的思维共振里。通过 <b>Network</b> 面板的全局向量相似度矩阵与力导向图，Vesti 将零散的节点重塑为动态的思维拓扑；而在 <b>Explore</b> 视图中，本地 RAG 问答引擎将大模型的生成能力严格锚定在你的专属语料上，通过显性化的匹配度溯源，彻底杜绝黑盒幻觉，实现诚实、严谨的知识增强检索。</p>
+<p>🎨 <b>Vesti (Vesti) is committed to revealing the "relationship of meaning" and allowing knowledge to grow naturally in retrospect:</b><br><br>
+Meaning not only exists in a single conversation, but also is hidden in the resonance of thoughts across time and space. Through the global vector similarity matrix and force-directed graph of the <b>Network</b> panel, Vesti reshapes scattered nodes into a dynamic thinking topology; and in the <b>Explore</b> view, the local RAG question and answer engine strictly anchors the large model generation capability to your exclusive corpus. Through explicit matching traceability, it completely eliminates the black box illusion and achieves honest and rigorous knowledge-enhanced retrieval. </p>
 </blockquote>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
@@ -203,54 +203,54 @@ Gardener 是在所有捕获对话的后台异步运行的轻量级智能体，�
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/network.png" alt="Vesti Dynamic Topology of Thoughts" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>思维拓扑的动态涌现 (Dynamic Topology of Thoughts)</b><br>基于全局向量相似度矩阵实时演算的力导向图。节点映射深度，连线反映语义距离。通过交互式的子网高亮与一键溯源，让跨越平台与时间的孤立思考，在这里涌现出隐秘的结构性关联。</sub>
+<sub><b>Dynamic Topology of Thoughts</b><br>A force-directed graph based on real-time calculation of the global vector similarity matrix. Nodes map depth, and connections reflect semantic distance. Through interactive subnet highlighting and one-click source tracing, isolated thinking across platforms and time can emerge with hidden structural connections. </sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/explore-main.jpg" alt="Vesti Epistemologically Honest RAG" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>诚实的检索增强生成 (Epistemologically Honest RAG)</b><br>将大模型的推理能力严格限制在你的个人思维语料中。从自然语言查询到高信噪比的结构化解答，底部精确透出溯源卡片与余弦匹配度。拒绝无源幻觉，确保每一句输出都对你的思考历史负责。</sub>
+<sub><b>Epistemologically Honest RAG</b><br>Limit the inference capabilities of large models strictly to your personal corpus of thoughts. From natural language queries to structured answers with high signal-to-noise ratio, the traceability cards and cosine matching are accurately revealed at the bottom. Reject the illusion of sourcelessness and ensure that every sentence output is responsible for your thinking history. </sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧩 技术架构
+## 🧩Technical Architecture
 
-心迹的技术实现体现了我们对可持续性和可扩展性的重视。每一个架构决策都不是为了快速搭建原型，而是为了建造一个可以持续演进的系统。
+Vesti's technical implementation reflects our emphasis on sustainability and scalability. Every architectural decision is not about building a quick prototype, but about building a system that can continue to evolve.
 
-### 双层架构概览
+### Overview of two-tier architecture
 
-心迹由两个协同工作的产品层次构成，通过 Chrome Extension Message 协议连接：
+Vesti consists of two product layers that work together, connected through the Chrome Extension Message protocol:
 
-**捕获引擎层（Chrome Extension）** 负责感知与计算密集型任务，包括跨平台 DOM 监听与解析、Thread Summary 生成、Gardener Agent 决策链执行、向量化离线任务，以及本地 IndexedDB 的读写管理。它运行在 Plasmo 框架下，包含 Content Scripts（各平台解析器）、Background Router（消息分发中枢）和 Offscreen Handlers（隔离型异步计算）三个运行环境。
+**Capture engine layer (Chrome Extension)** is responsible for sensing and computing-intensive tasks, including cross-platform DOM monitoring and parsing, Thread Summary generation, Gardener Agent decision chain execution, vectorized offline tasks, and local IndexedDB read and write management. It runs under the Plasmo framework and includes three operating environments: Content Scripts (parser for each platform), Background Router (message distribution hub) and Offscreen Handlers (isolated asynchronous computing).
 
-**知识管理层（Web Dashboard）** 是 `packages/vesti-ui` 下的独立 UI 库，以 `StorageApi` 接口为唯一数据边界，所有组件严格禁止直接操作 IndexedDB。这一设计保证了 UI 层的纯粹性与可测试性——当未来引入加密云同步时，只需替换 `StorageApi` 的底层实现，所有 UI 组件无需改动。
+**Knowledge Management (Web Dashboard)** is an independent UI library under `packages/vesti-ui`, with the `StorageApi` interface as the only data boundary, and all components are strictly prohibited from directly operating IndexedDB. This design ensures the purity and testability of the UI layer - when encrypted cloud synchronization is introduced in the future, only the underlying implementation of `StorageApi` needs to be replaced, and all UI components do not need to be changed.
 
-### 核心技术选型
+### Core technology selection
 
-* **前端框架**：React 18 与 TypeScript，拒绝 `any` 类型，确保编译时即可发现潜在错误。UI 组件基于 shadcn/ui（底层为 Radix UI 的无障碍设计），样式系统基于 Tailwind CSS 的完整设计令牌体系，覆盖色彩、间距、圆角、阴影。视觉语言遵循 Warm Paper 设计哲学——温暖而克制，让内容成为主角。
+* **Front-end framework**: React 18 and TypeScript, reject the `any` type to ensure that potential errors can be found at compile time. The UI components are based on shadcn/ui (the bottom layer is the accessibility design of Radix UI), and the style system is based on the complete design token system of Tailwind CSS, covering color, spacing, rounded corners, and shadow. The visual language follows the Warm Paper design philosophy – warmth and restraint, letting the content be the protagonist.
 
-* **多语言界面**：界面文案与 AI 生成内容（Thread Summary、Weekly Recap、Explore 回答等）统一支持 **中文 / English / 日本語 / 한국어** 四种语言，可在设置中切换。所有语言由 `frontend/src/lib/i18n` 下的中央 `LOCALE_META` 注册表驱动——语言切换器、日期格式与"生成内容的输出语言"全部自动派生；新增一门语言只需补一条注册表项与一个翻译文件，无需改动 UI 或 Prompt 逻辑。
+* **Multi-language interface**: Interface copywriting and AI-generated content (Thread Summary, Weekly Recap, Explore answers, etc.) uniformly support **Chinese / English / Japanese / 한국어** four languages, which can be switched in the settings. All languages ​​are driven by the central `LOCALE_META` registry under `frontend/src/lib/i18n` - the language switcher, date format and "output language of generated content" are all automatically derived; adding a new language only requires adding a registry entry and a translation file, without changing the UI or Prompt logic.
 
-* **扩展框架**：Plasmo，提供热重载、TypeScript 支持和声明式配置，使开发专注于业务逻辑而非浏览器扩展底层 API。
+* **Extension Framework**: Plasmo, provides hot reloading, TypeScript support and declarative configuration, allowing development to focus on business logic rather than the underlying API of browser extensions.
 
-* **本地存储**：Dexie.js 作为 IndexedDB 的类型安全抽象层。核心表结构包含 `conversations`、`messages`、`summaries`（Thread Summary 缓存）、`vectors`（对话与笔记的语义向量索引）、`topics`（主题文件夹与归类规则）和 `notes`（策展笔记）。所有表通过外键关联，保证数据一致性。Schema 演进采用 Drift Gate 机制，防止结构化输出与数据契约之间的静默漂移。
+* **Local Storage**: Dexie.js as a type-safe abstraction layer for IndexedDB. The core table structure includes `conversations`, `messages`, `summaries` (Thread Summary cache), `vectors` (semantic vector index of conversations and notes), `topics` (topic folders and classification rules) and `notes` (curated notes). All tables are related through foreign keys to ensure data consistency. Schema evolution uses the Drift Gate mechanism to prevent silent drift between structured output and data contracts.
 
-* **向量知识库**：调用 ModelScope Embedding API（`text-embedding-v1`，768维）将对话标题与内容转化为语义向量，异步持久化至 IndexedDB 的 `vectors` 表。检索时通过纯 JavaScript 实现的余弦相似度计算完成本地 Top-K 匹配，无需外部向量数据库，全程在浏览器端运行。混合检索策略结合关键词召回（命中项获得 1.2× 分数提升）与语义向量检索，适应用户在精确查询与语义漫游两种不同意图下的检索模式。
+* **Vector knowledge base**: Call the ModelScope Embedding API (`text-embedding-v1`, 768 dimensions) to convert the conversation title and content into semantic vectors, and asynchronously persist them to the `vectors` table of IndexedDB. During retrieval, local Top-K matching is completed through cosine similarity calculation implemented in pure JavaScript, without the need for an external vector database, and the entire process runs on the browser side. The hybrid retrieval strategy combines keyword recall (hit items receive a 1.2× score increase) and semantic vector retrieval to adapt to the user's retrieval modes with two different intentions: precise query and semantic roaming.
 
-* **知识图谱可视化**：ECharts 力导向图，规避了 D3.js 在 Chrome 扩展构建环境中的 ESM 兼容性问题。节点与边的视觉属性（大小、颜色、粗细、透明度）全部由真实数据驱动，不存在装饰性的伪数据映射。
+* **Knowledge Graph Visualization**: ECharts force-directed graph, circumventing the ESM compatibility issue of D3.js in the Chrome extension build environment. The visual attributes (size, color, thickness, transparency) of nodes and edges are all driven by real data, and there is no decorative pseudo-data mapping.
 
-* **捕获引擎**：
-  **核心架构与状态流转**：采用 Parser / Observer / Gate 三层架构，Observer 层使用 MutationObserver 监听 DOM 变化，Parser 层根据平台特性提取对话内容（每个平台定义多套主备 Selector 策略，运行时动态检测有效路径），Gate 层控制是否触发解析流程。存储层使用 debounce 机制与增量更新策略大幅减少数据库写操作频次；运行态通过 `GET_ACTIVE_CAPTURE_STATUS` 轮询派生，UI 状态由本地函数统一计算，不引入额外协议变更。
-  **UI 隔离与视觉同步**：Capsule 作为 content script 单体实现，注入 `#vesti-capsule-root` 并挂载 Shadow DOM，样式完全在 `SHADOW_STYLE` 内隔离，通过高优先级 z-index 保证可见性。主题同步来源为 `vesti_ui_settings`，初始化走 `getUiSettings()`，运行时通过 `chrome.storage.onChanged` 增量同步，切换时只改 shadow 内 CSS 变量，不调用 `applyUiTheme` 以防误切宿主页面 dark class；平台色从单色背景升级为 bg / text / border 三元 token，按 light / dark 双表管理，与侧边栏 `style.css` 的 token 定义完全一致。
-  **交互体验与本地持久化**：拖拽交互通过 pointer 事件会话状态管理，设定 5px 阈值防误触，并禁用图标原生拖拽以避免浏览器默认 drag payload 污染输入框。持久化层由 `capsuleSettingsService` 按 host 维度管理，读取失败有默认值回退，写入失败只记录日志，确保不阻断主流程。
+* **Capture Engine**:
+**Core architecture and state flow**: Adopt a three-layer architecture of Parser / Observer / Gate. The Observer layer uses MutationObserver to monitor DOM changes. The Parser layer extracts dialogue content based on platform characteristics (each platform defines multiple sets of active and backup Selector strategies, and dynamically detects effective paths at runtime). The Gate layer controls whether to trigger the parsing process. The storage layer uses the debounce mechanism and incremental update strategy to significantly reduce the frequency of database write operations; the running state is derived through `GET_ACTIVE_CAPTURE_STATUS` polling, and the UI status is calculated uniformly by local functions without introducing additional protocol changes.
+**UI isolation and visual synchronization**: Capsule is implemented as a single content script, injecting `#vesti-capsule-root` and mounting Shadow DOM. The style is completely isolated within `SHADOW_STYLE`, and visibility is guaranteed through high-priority z-index. The theme synchronization source is `vesti_ui_settings`, initialized through `getUiSettings()`, and incremental synchronization through `chrome.storage.onChanged` during runtime. When switching, only the CSS variables in shadow are changed, and `applyUiTheme` is not called to prevent accidentally switching the host page to dark class; the platform color is upgraded from a single color background to bg/text/border ternary token, and is managed by light/dark dual table, and sidebar The token definition of `style.css` is exactly the same.
+**Interactive experience and local persistence**: Drag-and-drop interaction is managed through pointer event session state, a 5px threshold is set to prevent accidental touches, and native drag and drop of icons is disabled to prevent the browser's default drag payload from polluting the input box. The persistence layer is managed by `capsuleSettingsService` according to the host dimension. There is a default value fallback for read failures, and only logs are recorded for write failures to ensure that the main process is not blocked.
 
-* **提示词工程**：Prompt-as-Code 策略——每个提示词模板有明确版本号，运行时日志绑定版本信息，Schema Drift Gate 在结构化输出与预期契约之间建立门禁。Fallback Hierarchy 分四层：`json_mode 内容提取 → reasoning_content 回收 → prompt_json 单次降级 → 结构化本地合成`，45 秒时间预算与两跳封顶机制防止极端情况下的无限等待。
+* **Prompt word project**: Prompt-as-Code strategy - each prompt word template has a clear version number, the runtime log is bound to the version information, and the Schema Drift Gate establishes a gate between the structured output and the expected contract. Fallback Hierarchy is divided into four layers: `json_mode content extraction → reasoning_content recycling → prompt_json single downgrade → structured local synthesis`. The 45-second time budget and the two-hop capping mechanism prevent infinite waiting in extreme cases.
 
-* **AI 模型**：主模型为 `DeepSeek-R1-Distill-Qwen-14B`（具备深度推理能力），备用模型为 `Qwen/Qwen3-14B`。支持 Demo 模式（通过开发者代理路由，开箱可用）与 BYOK 模式（用户填入自有 ModelScope API Key，直连官方接口，适合高频重度用户）。
+* **AI model**: The main model is `DeepSeek-R1-Distill-Qwen-14B` (with deep reasoning capabilities), and the backup model is `Qwen/Qwen3-14B`. Supports Demo mode (routed through developer agents, available out of the box) and BYOK mode (users fill in their own ModelScope API Key and directly connect to the official interface, suitable for high-frequency heavy users).
 
-* **服务层隔离**：UI 组件永远不直接操作数据，所有交互通过统一的服务接口进行。`storageService`、`insightGenerationService`、`llmService` 各司其职，边界清晰。这一设计使得未来引入向量数据库或云端同步时，只需重写服务层内部实现，UI 层完全不受影响。
+* **Service layer isolation**: UI components never directly operate data, and all interactions are conducted through a unified service interface. `storageService`, `insightGenerationService`, and `llmService` each perform their own duties and have clear boundaries. This design allows that when vector databases or cloud synchronization are introduced in the future, only the internal implementation of the service layer needs to be rewritten, and the UI layer is not affected at all.
 
 <table>
   <tr>
@@ -267,7 +267,7 @@ Gardener 是在所有捕获对话的后台异步运行的轻量级智能体，�
   </tr>
   <tr>
     <td width="120px"><strong>AI & RAG</strong></td>
-    <td>ModelScope API (DeepSeek-R1 / Qwen3 双模型容错), Embedding + Cosine Similarity, Hybrid Search</td>
+<td>ModelScope API (DeepSeek-R1 / Qwen3 dual model fault tolerance), Embedding + Cosine Similarity, Hybrid Search</td>
   </tr>
   <tr>
     <td width="120px"><strong>Visualization</strong></td>
@@ -281,99 +281,99 @@ Gardener 是在所有捕获对话的后台异步运行的轻量级智能体，�
 
 ---
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
-我们提供两种安装方式：离线安装包（适合快速体验）和开发者构建（适合贡献代码）。
+We provide two installation methods: offline installation package (suitable for quick experience) and developer build (suitable for code contribution).
 
-### 方式一：离线安装包（推荐）
+### Method 1: Offline installation package (recommended)
 
-无需配置编程环境，三步即可体验心迹。请优先从 GitHub Release 下载官方安装包（推荐）；如遇网络或访问限制，可在本仓库 `vesti-release/` 目录使用镜像安装包（应急备用）。
+There is no need to configure a programming environment and you can experience Vesti in three steps. Please give priority to downloading the official installation package from GitHub Release (recommended); in case of network or access restrictions, you can use the mirror installation package in the `vesti-release/` directory of this warehouse (emergency backup).
 <br>
-官方发布源：GitHub Release（唯一正式附件）；备用源：`vesti-release/`（镜像/兜底，不作为官方发布依据）。
+Official release source: GitHub Release (the only official attachment); alternate source: `vesti-release/` (mirror/cover, not used as the basis for official release).
 
 ：
 
 <div align="center">
   <a href="https://github.com/abraxas914/VESTI/releases/latest">
-    <img src="https://img.shields.io/badge/官方发布-GitHub%20Release-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Release 官方下载" style="margin: 0 4px;">
+<img src="https://img.shields.io/badge/官方发布-GitHub%20Release-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Release official download" style="margin: 0 4px;">
   </a>
   <a href="https://vesti-landing-page0211.vercel.app/">
-    <img src="https://img.shields.io/badge/官网下载-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel 官网下载" style="margin: 0 4px;">
+<img src="https://img.shields.io/badge/官网下载-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel official website download" style="margin: 0 4px;">
   </a>
   <a href="https://modelscope.cn/studios/aurorasein/Vesti2/summary">
-    <img src="https://img.shields.io/badge/国内加速-ModelScope-624AFF?style=for-the-badge&logo=modelscope&logoColor=white" alt="ModelScope 下载" style="margin: 0 4px;">
+<img src="https://img.shields.io/badge/国内加速-ModelScope-624AFF?style=for-the-badge&logo=modelscope&logoColor=white" alt="ModelScope download" style="margin: 0 4px;">
   </a>
   <a href="https://github.com/abraxas914/VESTI/tree/main/vesti-release">
-    <img src="https://img.shields.io/badge/本仓备用-vesti--release-181717?style=for-the-badge&logo=github&logoColor=white" alt="本仓备用下载" style="margin: 0 4px;">
+<img src="https://img.shields.io/badge/本仓备用-vesti--release-181717?style=for-the-badge&logo=github&logoColor=white" alt="This warehouse is available for download" style="margin: 0 4px;">
   </a>
 </div>
 
 
 <br>
 
-**安装步骤：**
-1. 解压安装包到本地任意位置，确保能直接看到 `manifest.json` 文件。注意安装完成后请勿删除或移动该文件夹。
-2. 在 Chrome 浏览器地址栏输入 `chrome://extensions/` 进入扩展管理页，开启右上角的"开发者模式"开关。
-3. 点击左上角的"加载已解压的扩展程序"按钮，选择解压后的文件夹。
+**Installation steps:**
+1. Unzip the installation package to any local location and make sure you can directly see the `manifest.json` file. Note: Do not delete or move this folder after installation is complete.
+2. Enter `chrome://extensions/` in the Chrome browser address bar to enter the extension management page, and turn on the "Developer Mode" switch in the upper right corner.
+3. Click the "Load unzipped extension" button in the upper left corner and select the unzipped folder.
 
-> 安装成功后，Vesti 图标将出现在浏览器工具栏中。现在打开 ChatGPT 或 Claude 网页开始对话，心迹会自动捕获并开始建立你的本地知识库。
+> After successful installation, the Vesti icon will appear in the browser toolbar. Now open a ChatGPT or Claude web page to start a conversation, and Vesti will automatically capture and start building your local knowledge base.
 
-### 方式二：开发者构建
+### Method 2: Developer build
 
-如果你想贡献代码或深度定制，可以从源码构建。**环境要求**：Node.js 18 或更高版本，pnpm 包管理器。
+If you want to contribute code or customize deeply, you can build from source. **Environment Requirements**: Node.js 18 or higher, pnpm package manager.
 
 ```bash
-# 克隆仓库
+# Clone the repository
 git clone https://github.com/yourusername/vesti.git
 cd vesti
 
-# 安装依赖
+# Install dependencies
 pnpm install
 
-# 开发模式（热重载）
+# Development mode (hot reload)
 pnpm -C frontend dev
 
-# 或生产构建
+# Or build for production
 pnpm -C frontend build
 ```
 
-开发模式下，扩展文件在 `frontend/build/chrome-mv3-dev` 目录。生产构建在 `frontend/build/chrome-mv3-prod` 目录。按照方式一的步骤 2-3 加载对应目录即可。
+In development mode, extension files are in the `frontend/build/chrome-mv3-dev` directory. Production builds are in the `frontend/build/chrome-mv3-prod` directory. Just follow steps 2-3 of method 1 to load the corresponding directory.
 
-### ⚙️ 配置 ModelScope API
+### ⚙️ Configure ModelScope API
 
-心迹通过 ModelScope API 同时驱动两类核心能力：Thread Summary 的结构化摘要生成，以及 Explore 问答与 Network 图谱所依赖的对话向量化。除了拓展程序默认预埋的API Key之外，你也可以在设置页面配置自己的 API Key 来使用所有功能。
+Vesti simultaneously drives two types of core capabilities through the ModelScope API: structured summary generation of Thread Summary, and dialogue vectorization that Explore Q&A and Network graphs rely on. In addition to the default API Key embedded in the extension, you can also configure your own API Key on the settings page to use all functions.
 
-**获取 API 密钥：**
-1. 访问 ModelScope 官网并注册账号。
-2. 点击右上角头像进入「个人中心」→「访问令牌」。
-3. 复制以 `sdk_` 或 `ms_` 开头的字符串。
+**Get API Key:**
+1. Visit the ModelScope official website and register an account.
+2. Click the avatar in the upper right corner to enter "Personal Center" → "Access Token".
+3. Copy the string starting with `sdk_` or `ms_`.
 
-**在心迹中配置：**
-1. 点击心迹设置图标进入设置页面。
-2. 在 ModelScope 配置区域填入 API Key。
-3. Model ID 填写推荐的模型（如 `Qwen/Qwen3-32B`）。
-4. 点击 **Test** 按钮验证连接。
+**Configuration in Vesti:**
+1. Click the Vesti settings icon to enter the settings page.
+2. Fill in the API Key in the ModelScope configuration area.
+3. Model ID fill in the recommended model (such as `Qwen/Qwen3-32B`).
+4. Click the **Test** button to verify the connection.
 
-> **💡 提示：** 配置成功后，向量化任务会在后台异步运行，将你的历史对话逐步建立为可检索的语义索引。这个过程不影响正常使用，完成后 Explore 问答与 Network 图谱将自动激活。
+> **💡 Tips: ** After successful configuration, the vectorization task will run asynchronously in the background, gradually building your historical conversations into a searchable semantic index. This process does not affect normal use. After completion, Explore Q&A and Network graph will be automatically activated.
 
 ***
 
-| 阶段 | 核心动作 | 具体路径 / 参数 |
+| Stage | Core Action | Specific Path/Parameters |
 | :--- | :--- | :--- |
-| **构建与加载** | 选择扩展目录 | **开发模式**：`frontend/build/chrome-mv3-dev`<br>**生产模式**：`frontend/build/chrome-mv3-prod` |
-| **获取 API** | 在官网获取令牌 | 注册登录 ➔ 个人中心 ➔ 访问令牌 ➔ 复制 (`sdk_` / `ms_` 开头) |
-| **插件内配置** | 填入设置信息 | 进入设置 ➔ 填入 API Key ➔ 填入 Model ID ➔ 点击 Test |
-| **日常使用** | 侧边栏捕获与摘要 | 对话详情页 ➔ 点击"生成摘要"（结果自动本地缓存） |
-| **知识库探索** | 打开 Web Dashboard | 侧边栏 Insights ➔ 点击"Explore & Network"外链 ➔ 进入独立知识管理平台 |
+| **Build and load** | Select extension directory | **Development mode**: `frontend/build/chrome-mv3-dev`<br> **Production mode**: `frontend/build/chrome-mv3-prod` |
+| **Get API** | Get the token on the official website | Register and log in ➔ Personal Center ➔ Access Token ➔ Copy (starting with `sdk_` / `ms_`) |
+| **Configuration in the plug-in** | Fill in the setting information | Enter settings ➔ Fill in the API Key ➔ Fill in the Model ID ➔ Click Test |
+| **Daily use** | Sidebar capture and summary | Conversation details page ➔ Click "Generate summary" (results are automatically cached locally) |
+| **Knowledge Base Exploration** | Open Web Dashboard | Sidebar Insights ➔ Click the "Explore & Network" external link ➔ Enter the independent knowledge management platform |
 
 ---
 
-## 📖 使用指南
+## 📖 User Guide
 
-### 渐进式披露：四层交互管线
+### Progressive disclosure: four-layer interaction pipeline
 <blockquote>
-  <p>🎨 <b>心迹 (Vesti) 采用渐进式披露设计，实现从轻量捕获到深度管理的无缝流转：</b><br><br>
-  <b>页面常驻（悬浮胶囊-折叠态）</b>在 AI 对话页边缘静默指示捕获状态，实现零干扰；点击小球进入<b>当前控制（悬浮胶囊-展开态）</b>，即可查看状态详情或快捷归档；随后可一键呼出<b>全局浏览（浏览器侧边栏）</b>，支持跨平台检索与当前对话摘要；最后，通过侧边栏 Insights 面板的探索外链，平滑过渡至<b>深度洞察（独立 Dashboard）</b>的 Web 平台，解锁 RAG 问答、思维图谱与策展笔记等高级知识管理功能。</p>
+<p>🎨 <b>Vesti (Vesti) adopts a progressive disclosure design to achieve seamless flow from light capture to in-depth management:</b><br><br>
+<b>Page resident (suspended capsule - folded state)</b> silently indicates the capture status at the edge of the AI conversation page to achieve zero interference; click the ball to enter <b>Current control (suspended capsule - expanded state)</b> to view status details or quick archives; then you can call out <b>global browsing (browser sidebar)</b> with one click, supporting cross-platform retrieval and current conversation summary; finally, through the exploration external link of the sidebar Insights panel, a smooth transition to <b>deep insights (independent) Dashboard)</b>'s web platform unlocks advanced knowledge management functions such as RAG Q&A, mind mapping and curatorial notes. </p>
 </blockquote>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
@@ -381,79 +381,79 @@ pnpm -C frontend build
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/pipeline-1.png" alt="Vesti Capsule Folded" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>1. 页面常驻 </b> (悬浮胶囊-折叠态)</sub>
+<sub><b>1. Page permanent </b> (suspended capsule-folded state)</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/pipeline-2.png" alt="Vesti Capsule Expanded" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>2. 当前控制 </b> (悬浮胶囊-展开态)</sub>
+<sub><b>2. Current control </b> (suspended capsule-expanded state)</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/pipeline-3.png" alt="Vesti Sidebar" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>3. 全局浏览 </b> (浏览器侧边栏)</sub>
+<sub><b>3. Global browsing </b> (browser sidebar) </sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/pipeline-4.png" alt="Vesti Web Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>4. 深度洞察 </b> (独立 Dashboard)</sub>
+<sub><b>4. Deep Insight </b> (Independent Dashboard)</sub>
     </td>
   </tr>
 </table>
 
-心迹采用**渐进式披露**的设计哲学，将从轻量感知到深度管理的完整链路，分布在四个咬合衔接的界面层次中。你不需要在安装时做任何配置决策，每一层都是上一层的自然延伸。
+Vesti adopts the design philosophy of **progressive disclosure**, and the complete link from lightweight perception to deep management is distributed in four interlocking interface levels. You don't need to make any configuration decisions at installation time; each layer is a natural extension of the previous one.
 
 ```
-页面常驻          当前控制          全局浏览          深度洞察
-悬浮胶囊           悬浮胶囊          浏览器            独立
-（折叠态）  ──▶  （展开态）  ──▶   侧边栏    ──▶   Dashboard
-静默指示           快捷归档         跨平台检索        RAG问答
-捕获状态           呼出侧边栏       摘要生成          思维图谱
-                                                    策展笔记
+Page resident      Current control   Global browsing    Deep insights
+Floating capsule   Floating capsule  Browser            Independent
+(collapsed) ──▶    (expanded) ──▶    sidebar   ──▶      dashboard
+Silent status      Quick archive     Cross-platform     RAG Q&A
+indicator          Open sidebar      search             Thought graph
+Capture status                      Summary generation Curated notes
 ```
 
-**第一层 · 页面常驻（悬浮胶囊折叠态）**：在所有支持平台的 AI 对话页边缘，心迹以一个小球的形式静默驻留，实时显示当前捕获状态，颜色与动效随状态语义变化。它的设计原则是零干扰——你无需主动感知它的存在，但当你需要时它始终在那里。
+**First layer·Page resident (suspended capsule folded state)**: Vesti resides silently in the form of a small ball at the edge of the AI ​​dialogue page of all supported platforms, displaying the current capture status in real time, with colors and animations changing with the semantics of the status. It's designed to be zero-intrusion - you don't need to actively sense its presence, but it's always there when you need it.
 
-**第二层 · 当前控制（悬浮胶囊展开态）**：点击小球展开卡片，可以查看当前对话的捕获详情、手动触发归档，或一键呼出浏览器侧边栏。这一层的设计意图是让用户在不离开当前 AI 对话页面的前提下，完成所有与心迹的即时交互。
+**Second layer · Current control (suspended capsule expanded state)**: Click the ball to expand the card. You can view the capture details of the current conversation, manually trigger archiving, or call out the browser sidebar with one click. The design intention of this layer is to allow users to complete all real-time interactions with Vesti without leaving the current AI conversation page.
 
-**第三层 · 全局浏览（浏览器侧边栏）**：从胶囊呼出，或直接点击浏览器工具栏图标打开。侧边栏提供跨平台的时间轴浏览、全文检索、对话详情阅读与 Thread Summary 生成。这是心迹最日常的使用界面，覆盖了大多数用户的核心需求。
+**Third layer · Global browsing (browser sidebar)**: Call out from the capsule, or directly click the browser toolbar icon to open it. The sidebar provides cross-platform timeline browsing, full-text search, conversation details reading and Thread Summary generation. This is the most daily use interface of Vesti, covering the core needs of most users.
 
-**第四层 · 深度洞察（独立 Web Dashboard）**：在侧边栏的 Insights 面板点击"Explore & Network"外链，即可平滑过渡至独立知识管理平台。这一层解锁的是向量知识库的完整能力：RAG 自然语言问答（Explore）、语义关联思维图谱（Network）与手动策展笔记（Notes）。四个层次之间共享同一份本地 IndexedDB 数据，切换界面不意味着切换数据源。
+**Level 4·In-depth Insights (Independent Web Dashboard)**: Click the "Explore & Network" external link in the Insights panel of the sidebar to smoothly transition to an independent knowledge management platform. What this layer unlocks is the complete capabilities of the vector knowledge base: RAG natural language question and answer (Explore), semantic association thinking map (Network) and manual curation notes (Notes). The four levels share the same local IndexedDB data, and switching interfaces does not mean switching data sources.
 
 ---
 
-### 捕获对话
+### Capture conversation
 
-心迹目前支持 **ChatGPT、Claude、Gemini、DeepSeek、Qwen、Doubao** 六个平台的对话捕获，各平台的解析稳定性处于不同阶段，其中 ChatGPT 与 Claude 的捕获链路经过最充分的测试。当你在这些网站上进行对话时，扩展会自动监听页面变化并提取对话内容，无需任何主动操作。
+Vesti currently supports conversation capture on six platforms: **ChatGPT, Claude, Gemini, DeepSeek, Qwen, and Doubao**. The parsing stability of each platform is at different stages. Among them, the capture link between ChatGPT and Claude has been the most fully tested. When you have a conversation on these sites, the extension automatically listens for page changes and extracts the conversation content without any active action.
 
-捕获的对话包含完整的多轮问答内容、时间戳、平台标识等元数据，每个对话被分配一个基于平台原始会话 ID 的唯一 UUID，即使你多次访问同一对话页面，系统也能正确识别并避免重复存储。捕获完成后，Gardener Agent 会在后台异步触发，对对话进行类型分类与标签提取，结果在 Library 中可见。
+The captured conversations contain complete multi-round Q&A content, timestamps, platform identification and other metadata. Each conversation is assigned a unique UUID based on the original conversation ID of the platform. Even if you visit the same conversation page multiple times, the system can correctly identify and avoid repeated storage. After the capture is completed, the Gardener Agent will be triggered asynchronously in the background to classify the conversation and extract tags, and the results will be visible in the Library.
 
-#### 三种捕获模式
+#### Three capture modes
 
-心迹提供三种捕获策略，可在 **Settings → Capture Mode** 中切换，以适应不同的使用习惯与数据管理偏好：
+Vesti provides three capture strategies, which can be switched in **Settings → Capture Mode** to adapt to different usage habits and data management preferences:
 
-**全量镜像模式**：默认开启。所有支持平台上发生的对话均自动捕获并持久化，适合希望建立完整个人知识档案的用户。
+**Full mirroring mode**: enabled by default. Conversations taking place on all supported platforms are automatically captured and persisted, suitable for users who wish to build a complete personal knowledge profile.
 
-**智能降噪模式**：系统自动过滤低价值对话，包括：特定平台来源的对话（可在设置中自定义屏蔽列表）、对话轮数过少的短会话（低于阈值的单轮或双轮对话默认不入库）。适合对数据质量有要求、希望知识库保持精简的用户。过滤规则完全在本地执行，不影响原始对话的浏览体验。
+**Intelligent Noise Reduction Mode**: The system automatically filters low-value conversations, including: conversations from specific platforms (the blocking list can be customized in the settings), short conversations with too few dialogue rounds (single- or double-round conversations below the threshold are not included in the database by default). Suitable for users who have requirements on data quality and want to keep their knowledge base streamlined. Filtering rules are executed entirely locally and do not affect the browsing experience of the original conversation.
 
-**手动归档模式**：引擎持续在后台监听对话并识别稳定 UUID，但不自动写入数据库。当你认为某次对话值得保存时，点击悬浮胶囊展开卡片，卡片会显示当前对话的识别状态；确认后点击"Archive now"完成归档。这种模式将数据主权完全交还给用户，每一条进入知识库的对话都是主动选择的结果，而非被动堆积。
+**Manual Archiving Mode**: The engine continues to listen to conversations in the background and identify stable UUIDs, but does not automatically write to the database. When you think a conversation is worth saving, click on the floating capsule to expand the card. The card will display the recognition status of the current conversation; after confirmation, click "Archive now" to complete the archiving. This model completely returns data sovereignty to the user. Every conversation that enters the knowledge base is the result of active selection, rather than passive accumulation.
 
-#### 悬浮状态胶囊
+#### Suspension capsule
 
-捕获过程中，页面内常驻心迹的悬浮状态胶囊。它实时反映当前对话的六种捕获语义状态（持续捕获中、已就绪归档、已完成、错误等），状态变化通过颜色与动效区分。你可以将其拖拽到屏幕任意边缘吸附，位置会按平台域名自动记忆。
+During the capture process, Vesti's suspended state capsule resides within the page. It reflects the six capture semantic states of the current conversation in real time (continuous capture, ready for archiving, completed, error, etc.), and state changes are distinguished by color and animation. You can drag it to any edge of the screen and the location will be automatically remembered based on the platform domain name.
 
-在手动归档模式下，胶囊是主要的操作界面：当引擎捕获到稳定 UUID 时，卡片上的"Archive now"按钮激活，点击即完成归档；"Open Dock"按钮随时可用，一键呼出侧边栏。
+In manual archiving mode, the capsule is the main operating interface: when the engine captures a stable UUID, the "Archive now" button on the card is activated, and archiving is completed by clicking on it; the "Open Dock" button is available at any time, and you can call out the sidebar with one click.
 
 ---
 
-### 浏览与搜索
-### 🌙 明暗双态下的全景时间线与沉浸式阅读
+### Browse and search
+### 🌙 Panoramic timeline and immersive reading under the dual state of light and dark
 
 <blockquote>
-  <p>🎨 <b>心迹 (Vesti) 在侧边栏提供跨越生态壁垒的统一对话管理体验：</b><br><br>
-  无缝兼容全网主流大模型平台，并自动适应宿主环境的明暗双主题。在视觉呈现上，深度践行“新古典主义”审美与 Warm Paper 设计哲学，通过精致的衬线体排版与长文本智能折叠（渐进式披露）机制，将喧嚣杂乱的网页问答转化为纯粹的沉浸式阅读体验，助你在低视觉噪音中专注回溯思维轨迹。</p>
+<p>🎨 <b>Vesti (Vesti) provides a unified conversation management experience across ecological barriers in the sidebar:</b><br><br>
+Seamlessly compatible with mainstream large model platforms across the entire network, and automatically adapts to the light and dark themes of the host environment. In terms of visual presentation, it deeply implements the "neoclassical" aesthetic and Warm Paper design philosophy. Through exquisite serif typesetting and long text intelligent folding (progressive disclosure) mechanism, it transforms the noisy and messy web Q&A into a pure immersive reading experience, helping you focus on retracing your thinking track in low visual noise. </p>
 </blockquote>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
@@ -461,56 +461,56 @@ pnpm -C frontend build
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/threads-1.png" alt="Vesti Dark Mode Timeline" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>全平台阵列与全局时间轴 (Unified Timeline)</b><br>突破生态壁垒，静默捕获各平台的交互记录。完美适配暗黑模式，将散落的思维碎片在侧边栏收束为统一的、可追溯的时间线。</sub>
+<sub><b>Full-platform array and global timeline (Unified Timeline)</b><br>Break through ecological barriers and silently capture interaction records of each platform. Perfectly adapted to the dark mode, the scattered fragments of thoughts are gathered into a unified and traceable timeline in the sidebar. </sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/threads-2.png" alt="Vesti Light Mode Conversation Detail" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>新古典审美下的沉浸阅读 (Immersive Reading)</b><br>将对话转化为纯粹的阅读体验。以精致的衬线体排版结合长消息智能折叠机制，在明亮模式下依然保持克制、温润的信息密度。</sub>
+<sub><b>Immersive Reading under neoclassical aesthetics</b><br>Transform dialogue into a pure reading experience. Using exquisite serif typesetting combined with an intelligent folding mechanism for long messages, it still maintains a restrained and gentle information density in bright mode. </sub>
     </td>
   </tr>
 </table>
 
-点击浏览器工具栏上的心迹图标，或通过胶囊"Open Dock"呼出侧边栏。默认页面是**时间轴视图**，显示所有捕获的对话按时间倒序排列。将鼠标悬停在卡片上，会展开显示对话的前100字预览，以及编辑、打开原页面、删除等快捷操作。点击卡片进入详情视图，显示完整的对话历史。
+Click on the Vesti icon in the browser toolbar or call up the sidebar via the capsule "Open Dock". The default page is **Timeline View**, which displays all captured conversations in reverse chronological order. Hovering the mouse over the card will expand and display a preview of the first 100 words of the conversation, as well as quick operations such as editing, opening the original page, and deleting. Click on the card to enter the details view, which displays the complete conversation history.
 
-在顶部搜索框中输入关键词，可以实时过滤对话列表。搜索支持**标题匹配**与**内容全文匹配**，结果高亮显示匹配文字，并可按平台标签筛选。如果需要跨越关键词边界的语义检索——例如搜索"缓存策略"能找到讨论 Redis 的对话——请前往 Web Dashboard 的 Explore Tab 使用向量检索模式。
+Enter keywords in the search box at the top to filter the conversation list in real time. The search supports **title matching** and **full text matching**. The results highlight matching text and can be filtered by platform tags. If you need semantic retrieval across keyword boundaries—for example, searching for "caching strategy" will find conversations discussing Redis—please go to the Explore Tab of Web Dashboard and use vector retrieval mode.
 
-### 查看详情
+### check the details
 
-在对话详情页中，消息按时间正序排列，用户消息与 AI 消息通过不同背景色区分。长消息支持智能折叠，超过500字符的内容自动收起。将鼠标悬停在任意消息上，右上角会出现**复制**按钮。如果消息中包含代码块，会自动应用等宽字体与语法高亮。
+On the conversation details page, messages are arranged in chronological order, and user messages and AI messages are distinguished by different background colors. Long messages support smart folding, and content exceeding 500 characters will be automatically folded. Hover your mouse over any message and a **Copy** button will appear in the upper right corner. If the message contains code blocks, fixed-width fonts and syntax highlighting are automatically applied.
 
-详情页顶部的标题栏包含返回按钮、对话标题、平台标签和消息轮数统计。点击平台标签旁边的跳转图标，可以在新标签页中打开对话的原始网页。
+The title bar at the top of the details page contains the return button, conversation title, platform label, and message round statistics. Click the jump icon next to the Platforms label to open the conversation's original page in a new tab.
 
-### 灵活的模型调用配置
+### Flexible model calling configuration
 
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/vesti-settings-modelscope-1.png" alt="Demo Mode Settings" width="75%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>默认开箱即用：Demo 模式</b><br>无需配置密钥，通过代理路由直接体验核心功能。</sub>
+<sub><b>Out-of-the-box by default: Demo mode</b><br> No need to configure a key, directly experience the core functions through proxy routing. </sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/vesti-settings-modelscope-2.png" alt="Custom BYOK Mode Settings" width="75%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>进阶自定义配置：BYOK 模式</b><br>填入你自己的 ModelScope API Key，直连官方接口。</sub>
+<sub><b>Advanced custom configuration: BYOK mode</b><br> Fill in your own ModelScope API Key and connect directly to the official interface. </sub>
     </td>
   </tr>
 </table>
 
-心迹提供两种 API 调用模式，可在侧边栏右下角的**设置 (Settings) → Model Access** 面板中切换：
+Vesti provides two API calling modes, which can be switched in the Settings → Model Access panel in the lower right corner of the sidebar:
 
-**Demo 模式（开箱即用）**：默认开启。请求通过开发者提供的代理路由发送，无需配置任何密钥。后端实现了双模型容错策略：主模型为 `DeepSeek-R1-Distill-Qwen-14B`，遇到网络超时或速率限制时自动无缝切换至 `Qwen/Qwen3-14B` 进行单次重试。
+**Demo mode (out of the box)**: Enabled by default. Requests are sent through the developer-provided proxy route without any keys being configured. The backend implements a dual-model fault-tolerance strategy: the main model is `DeepSeek-R1-Distill-Qwen-14B`, which automatically and seamlessly switches to `Qwen/Qwen3-14B` for a single retry when encountering network timeout or rate limit.
 
-**自定义 BYOK 模式（Bring Your Own Key）**：打开 `Use Custom Configuration` 开关启用。填入自有 ModelScope API Key 后，所有请求绕过开发者代理，直接发往 ModelScope 官方接口，适合高频重度用户或对数据路由有严格要求的场景。
+**Customized BYOK mode (Bring Your Own Key)**: Turn on the `Use Custom Configuration` switch to enable it. After filling in your own ModelScope API Key, all requests will bypass the developer agent and be sent directly to the ModelScope official interface, which is suitable for high-frequency heavy users or scenarios with strict requirements on data routing.
 
-### 生成 Thread Summary
+### Generate Thread Summary
 
-### ⚡ 结构化摘要与透明思维链：从黑盒到可观测的认知提炼
+### ⚡ Structured summary and transparent thinking chain: from black box to observable cognitive extraction
 
 <blockquote>
-  <p>🎨 <b>心迹 (Vesti) 将暗箱操作的 AI 总结转化为透明、可观测的结构化认知提炼：</b><br><br>
-  在侧边栏的 <b>Insights</b> 面板中，系统拒绝浅层的内容压缩，而是通过多链路推理 API 深入对话脉络。无论是实时展示 Agent 拆解逻辑的思维链（CoT）执行状态，还是最终沉淀为包含核心问题与关键洞察的结构化卡片，Vesti 确保你既能收获高信息密度的知识结晶，也能全程清晰掌控 AI 提炼思维的每一步执行管线。</p>
+<p>🎨 <b>Vesti (Vesti) transforms black-box AI summaries into transparent, observable structured cognitive distillations:</b><br><br>
+In the <b>Insights</b> panel of the sidebar, the system rejects shallow content compression and instead digs deeper into the context of the conversation through the multi-link inference API. Whether it is a real-time display of the execution status of the chain of thought (CoT) of the Agent's dismantling logic, or it is finally deposited into a structured card containing core questions and key insights, Vesti ensures that you can not only harvest knowledge crystallization with high information density, but also clearly control every step of the execution pipeline of AI refining thinking. </p>
 </blockquote>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
@@ -518,53 +518,53 @@ pnpm -C frontend build
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/insights-1.png" alt="Vesti Structured Thinking Trajectory" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>思维轨迹的结构化重塑 (Structured Thinking Trajectory)</b><br>突破浅层的文本压缩，通过深度推理提炼对话的核心问题与关键洞察。将流动的问答凝固为脉络清晰的思维卡片，让每一次探讨都有迹可循。</sub>
+<sub><b>Structured Thinking Trajectory</b><br>Break through shallow text compression and refine the core issues and key insights of the conversation through in-depth reasoning. Consolidate the flowing questions and answers into clear-cut thinking cards, making every discussion traceable. </sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/insights-2.png" alt="Vesti Observable Reasoning Pipeline" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>推理管线的实时可观测化 (Observable Reasoning Pipeline)</b><br>告别黑盒等待。在侧边栏动态呈现 Agent 初始化、逻辑提炼到摘要组装的完整思维链（CoT）执行过程，兼顾底层工程的透明度与用户的掌控感。</sub>
+<sub><b>Real-time observable reasoning pipeline (Observable Reasoning Pipeline)</b><br>Say goodbye to black box waiting. The complete chain of thought (CoT) execution process from Agent initialization, logic refining to summary assembly is dynamically presented in the sidebar, taking into account the transparency of the underlying project and the user's sense of control. </sub>
     </td>
   </tr>
 </table>
 
-在配置好 ModelScope API 后，可以在选中对话卡片进入Insights页面的thread summary页面。点击后，系统经由 Prompt-as-Code 管理的提示词模板生成结构化分析，包含五个部分：**核心问题**（用一句话概括对话意图）、**思维演进**（关键转折的过程）、**核心洞见**（最有价值的认知收获）、**悬而未决的话题**（未深入探讨的问题）、**可行的下一步**（后续思考或行动建议）。
+After configuring the ModelScope API, you can select the dialog card to enter the thread summary page of the Insights page. After clicking, the system generates a structured analysis through the prompt word template managed by Prompt-as-Code, which includes five parts: **Core Question** (summarizing the conversation intention in one sentence), **Thinking Evolution** (the process of key turning points), **Core Insights** (the most valuable cognitive gains), **Unresolved Topics** (issues that have not been explored in depth), and **Feasible Next Steps** (follow-up thoughts or action suggestions).
 
-生成过程中，系统会先尝试从 LLM 的 `reasoning_content` 字段中直接回收结构化 JSON，减少不必要的重试开销；如解析失败则按 Fallback Hierarchy 降级处理，45秒时间预算与两跳封顶机制防止无限等待。生成结果缓存在本地，下次查看无需重新生成。
+During the generation process, the system will first try to directly recycle structured JSON from the `reasoning_content` field of LLM to reduce unnecessary retry overhead; if the parsing fails, it will be processed according to the Fallback Hierarchy. The 45-second time budget and the two-hop capping mechanism prevent infinite waiting. The generated results are cached locally, so there is no need to regenerate them the next time you view them.
 
-### 使用知识管理平台
+### Use knowledge management platform
 
-在侧边栏 Insights 面板点击"Explore & Network"外链，即可进入独立 Web Dashboard。平台包含四个 Tab，建议按以下方式理解各自的使用场景：
+Click the "Explore & Network" external link in the Insights panel of the sidebar to enter the independent Web Dashboard. The platform contains four Tabs. It is recommended to understand their respective usage scenarios as follows:
 
-**Library** 是你的知识库主页，日常整理的起点。左栏的 Topic 文件夹树由 Gardener Agent 自动维护，也支持手动拖拽调整；中栏的卡片列表按时间倒序排列，可按平台或主题筛选；右栏的 Reader View 优先显示 AI 分析结果，并提供将当前对话精华导入 Notes 的入口。
+**Library** is your knowledge base homepage and the starting point for daily organization. The Topic folder tree in the left column is automatically maintained by Gardener Agent and also supports manual drag and drop adjustment; the card list in the middle column is arranged in reverse chronological order and can be filtered by platform or topic; the Reader View in the right column gives priority to displaying AI analysis results and provides an entrance to import the essence of the current conversation into Notes.
 
-**Explore** 是你向自己的历史思考提问的地方。在输入框中用自然语言描述你想找的内容，系统在本地向量库中检索相关对话，将其作为上下文生成有引用来源的回答。每条回答底部的来源卡片可点击跳转回原始对话。当本地相关度低于阈值时，系统动态切换至大模型世界知识进行兜底，并在回答中明确标注。
+**Explore** is a place for you to ask questions about your own historical thinking. Use natural language to describe what you are looking for in the input box, and the system will retrieve relevant conversations in the local vector library and use them as context to generate answers with cited sources. The source card at the bottom of each answer is clickable to jump back to the original conversation. When the local correlation is lower than the threshold, the system dynamically switches to the large model world knowledge for full explanation, and clearly marks it in the answer.
 
-**Network** 以可交互的力导向图呈现你的思维网络。拖动节点可以手动调整布局，Hover 显示对话标题，点击节点高亮其关联子网。节点大小映射讨论深度，边的粗细反映语义相似度，颜色对应平台。
+**Network** Presents your mental network as an interactive force-directed diagram. Drag the node to manually adjust the layout, Hover displays the conversation title, and click on the node to highlight its associated subnet. Node size maps discussion depth, edge thickness reflects semantic similarity, and color corresponds to platform.
 
-**Notes** 是你沉淀个人洞察的空间。点击任意空白区域进入编辑态，支持标准 Markdown 语法，失焦后自动保存并切换回阅读态。笔记可以关联特定对话，也可以作为独立条目存在。被手动策展进 Notes 的知识，在 Explore 的检索权重中高于普通对话。
+**Notes** is a space for you to accumulate personal insights. Click on any blank area to enter the editing state, which supports standard Markdown syntax. It will automatically save and switch back to the reading state after losing focus. Notes can be associated with a specific conversation or exist as independent entries. Knowledge that has been manually curated into Notes has a higher search weight in Explore than regular conversations.
 
-### 生成周度洞察
+### Generate weekly insights
 
-在侧边栏导航到 **Insights** 页面，可以生成周度思维复盘。心迹会自动评估本周对话样本的充分性；如果对话数量或深度不足，系统会明确标注边界提示而非生成过度推测的内容，保持分析的诚实性。
+Navigate to the **Insights** page in the sidebar to generate a weekly thinking review. Vesti automatically evaluates the adequacy of this week’s conversation samples; if there is insufficient conversation volume or depth, the system clearly marks boundary prompts rather than generating overly speculative content, keeping the analysis honest.
 
-> **注意：** Weekly Digest 完整版当前处于开发中（`Soon` 状态），现有 Insights 页面提供基础洞察功能。我们不会因为展示压力而提前宣称尚未完成测试的能力，这个边界的保持是工程可信度的一部分。
+> **Note:** The full version of Weekly Digest is currently under development (`Soon` status), and the existing Insights page provides basic insights functionality. We do not preemptively declare capabilities that have not yet been tested because of pressure to demonstrate; maintaining this boundary is part of engineering credibility.
 
-### 数据管理
+### Data Management
 
-在侧边栏导航到 **Data** 页面，可以全面掌控自己的本地数据。页面分为三个组：**Overview** 显示存储用量、对话总数、摘要记录数等聚合统计；**Operations** 提供导出与清理操作；**Roadmap** 展示近期能力规划（当前为只读视图）。
+Navigate to the **Data** page in the sidebar to fully control your local data. The page is divided into three groups: **Overview** displays aggregate statistics such as storage usage, total number of conversations, and number of summary records; **Operations** provides export and cleanup operations; **Roadmap** displays recent capacity planning (currently a read-only view).
 
-存储保护机制：数据量达到 900MB 时进行软警告，达到 1GB 时触发硬限制暂停新数据写入。
+Storage protection mechanism: a soft warning is issued when the data volume reaches 900MB, and a hard limit is triggered to suspend new data writing when it reaches 1GB.
 
-导出支持三种格式：**JSON**（标准无损备份）、**TXT**（人类可读档案）、**Markdown**（适合直接导入个人知识库软件）。
+Export supports three formats: **JSON** (standard lossless backup), **TXT** (human-readable files), **Markdown** (suitable for direct import into personal knowledge base software).
 
-清理操作分为两个独立动作：对话历史与 Insights 缓存可以分别清除。执行危险操作前需精确输入 `DELETE` 指令确认。你的 API 密钥与模型配置在清理后完好保留。
+The cleanup operation is divided into two separate actions: the conversation history and Insights cache can be cleared separately. Please enter the `DELETE` command accurately before performing dangerous operations. Your API keys and model configurations are preserved after cleanup.
 
-### 🛡️ 掌控你的思维资产：绝对的数据所有权与注意力主权
+### 🛡️ Take control of your thinking assets: absolute data ownership and attention sovereignty
 
 <blockquote>
-  <p>🎨 <b>心迹 (Vesti) 坚信注意力主权先于数据主权，拒绝被动的数字囤积：</b><br><br>
-  在 Data 与 Settings 面板中，我们将系统底层的控制权彻底开放。从多格式的无损导出到三种捕获引擎的自由切换，Vesti 确保你不仅拥有数据的绝对所有权，更掌握着过滤噪音、定义何为“有价值记忆”的注意力主权。在这里，每一条落库的记忆都应当源于你主动的知识策展。</p>
+<p>🎨 <b>Vesti (Vesti) firmly believes that attention sovereignty comes before data sovereignty and rejects passive digital hoarding:</b><br><br>
+In the Data and Settings panels, we fully open up the underlying control of the system. From lossless export in multiple formats to free switching of three capture engines, Vesti ensures that you not only have absolute ownership of your data, but also control the sovereignty of your attention to filter out noise and define what "valuable memory" is. Here, every forgotten memory should originate from your active knowledge curation. </p>
 </blockquote>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
@@ -572,91 +572,91 @@ pnpm -C frontend build
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/settings-data-export.png" alt="Vesti Absolute Data Sovereignty" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>绝对的数据主权与自由流转 (Absolute Data Sovereignty)</b><br>将数据的解释权与所有权完整交还于你。提供本地存储用量的透明看板，并支持 JSON、TXT、MD 多格式无损导出，让你的思维资产可以随时剥离系统、自由迁移。</sub>
+<sub><b>Absolute Data Sovereignty</b><br>Returns the right of interpretation and ownership of data to you. It provides a transparent dashboard of local storage usage and supports lossless export in JSON, TXT, and MD formats, allowing your thinking assets to be separated from the system and migrated freely at any time. </sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src=".github/assets/settings-capture-engine.png" alt="Vesti Attention Sovereignty" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <br>
-      <sub><b>灵活的捕获引擎与注意力主权 (Attention Sovereignty)</b><br>拒绝盲目的被动堆砌。提供全量镜像、智能降噪与手动归档三种模式，将过滤噪音的决定权交给你，让每一条落库的记忆都源于主动的知识策展。</sub>
+<sub><b>Flexible capture engine and attention sovereignty (Attention Sovereignty)</b><br>Reject blind passive stacking. It provides three modes of full mirroring, intelligent noise reduction and manual archiving, leaving the decision-making power of filtering noise to you, so that every stored memory comes from active knowledge curation. </sub>
     </td>
   </tr>
 </table>
 
-### Settings 信息密度与 Support 入口
+### Settings Information Density and Support Entry
 
-分组结构固定为 `Personalisation / System / Support`；`Support` 固定三项平铺行：`Docs & Help`、`Send Feedback`（行内展开）、`What's New`；Settings 展开区仅保留操作指令、当前状态与即时警告三类文案，详细背景解释统一下沉到 README。
+The grouping structure is fixed to `Personalisation / System / Support`; `Support` has three fixed tiled lines: `Docs & Help`, `Send Feedback` (inline expansion), `What's New`; the Settings expansion area only retains three types of copywriting: operation instructions, current status and immediate warnings, and detailed background explanations are unified into README.
 
-Settings 页面负责"完成动作"，README 负责"解释原理"。
-
----
----
-
-## 🧭 当前边界与后续路线图
-
-### 当前版本的已知边界
-
-随着能力边界的扩展，我们希望在这里对当前版本的真实约束保持清晰的说明，而不是用路线图的修辞来掩盖现有的局限。
-
-**向量检索的规模边界**：当前向量化与相似度计算全程在浏览器端运行，对数百条对话规模的使用场景性能可接受。随着历史对话积累到数千条，全局相似度矩阵的计算开销将构成实际瓶颈，届时需要引入 Web Worker 增量计算策略或本地轻量向量索引（如 LanceDB 的 WASM 版本）。当前版本尚未实现这一优化。
-
-**Gardener Agent 的分类置信度**：规则引擎对特征明显的对话（含大量代码、技术术语等）分类准确率高；对话题模糊、跨领域或高度个人化的对话，置信度会下降。系统当前的处理方式是标注低置信度结果并允许用户手动修正，后者会被记录为反馈信号以微调后续分类规则。但这个学习机制目前仍处于早期阶段，对小样本用户的效果有限。
-
-**跨设备同步的缺席**：所有数据存储在本地浏览器中，没有跨设备同步能力。这是 Local-First 价值立场的主动选择，而非技术能力的限制——在引入云端同步之前，我们需要先设计出满足端到端加密要求的方案，确保服务器端在任何情况下都无法解密用户数据。这项工作目前尚未开始。
-
-**Weekly Digest 的冻结状态**：Insights 页面的 Weekly Digest 完整版当前处于冻结状态（`WEEKLY_DIGEST_SOON = true`），保留占位符但不宣称已解封。现有 Insights 页面提供基础洞察功能，完整周报能力待测试充分后推出。
-
-**多平台解析的脆弱性**：各 AI 平台的 DOM 结构在平台方更新后可能发生变化，触发 Parser 选择器失效。当前通过主备选择器策略提升弹性，但无法完全规避这一风险，需要持续的 Selector 观测与专项手测维护。
-
-### 后续优先级
-
-基于当前工程基础与用户反馈，我们对后续迭代的方向有如下判断，按优先级排列：
-
-**P0：向量检索的规模化优化**。引入 Web Worker 异步增量向量化，解决大量对话时的性能瓶颈。同时完善 Explore 的 Conversational RAG，支持多轮对话式的本地知识问答，从"单次检索"升级为"连续探索"。
-
-**P1：Data Dashboard 从占位到只读趋势视图**。将当前 `Soon` 状态的 Dashboard 升级为基础的存储趋势与对话频次可视化，不引入新的写路径。同时将 Data 页中 `compactedThreads` 等指标从当前的 summary proxy 口径升级为严格的 compaction lineage 统计，消除语义偏差。
-
-**P1：Weekly Digest 完整版**。在 Insights 页面解封周报能力，支持跨周对比与主题演化追踪。此项依赖向量化基础设施的稳定运行，因此排在规模化优化之后。
-
-**P2：可选加密同步方案的探索**。在保持 Local-First 为默认边界的前提下，探索端到端加密的跨设备同步方案。这是一个架构层面的重大决策，不会在没有充分设计评审的前提下快速推进。
-
-**P2：Network Tab 的时序回放**。在现有知识图谱的基础上增加时间维度，支持"按月回放"模式，让用户可以观察主题节点如何随时间生长、收缩与迁移。这需要在图谱数据结构中引入时间戳索引，工程量可控，但视觉价值显著。
-
-> 路线图仅覆盖工程可行性优先级，不含资源预算与商业排期。我们不会因为展示压力而将路线图中的项目提前标注为"已完成"。每一个功能的状态，在产品界面与文档中都会如实呈现。
+The Settings page is responsible for "complete the action", and the README is responsible for "explaining the principle".
 
 ---
+---
 
-## 🤝 贡献指南
+## 🧭 Current boundaries and subsequent roadmap
 
-心迹是一个开源项目，我们欢迎任何形式的贡献。
+### Known boundaries of the current version
 
-如果你在使用过程中发现 bug 或有功能建议，请在 **GitHub Issues** 中提交详细描述。如果你想贡献代码，可以 fork 仓库并提交 **Pull Request**。在提交代码前，请确保通过 TypeScript 类型检查，并遵循项目的代码风格规范。我们使用 Prettier 进行代码格式化，使用 ESLint 进行语法检查。所有提交的代码都应该有清晰的注释和类型定义。
+As the boundaries of capabilities expand, we want to keep the true constraints of the current version clear here, rather than mask existing limitations with roadmap rhetoric.
 
-特别欢迎以下方向的贡献：新平台的 Parser 实现、提示词模板的优化建议、向量检索性能的改进方案、UI/UX 的改进，以及文档的完善。如果你想参与产品设计讨论或分享使用心得，欢迎加入我们的社区频道。
+**Scale boundary of vector retrieval**: Currently, vectorization and similarity calculation are all run on the browser side, and the performance is acceptable for usage scenarios with a scale of hundreds of conversations. As historical conversations accumulate to thousands, the calculation overhead of the global similarity matrix will constitute an actual bottleneck, and it will be necessary to introduce a Web Worker incremental calculation strategy or a local lightweight vector index (such as the WASM version of LanceDB). This optimization is not yet implemented in the current version.
 
-在提交涉及 UI 与数据路径同时改动的 PR 时，请参考项目工程守则：样式增强与数据逻辑改动必须分提交，视觉异常的排查应先检查数据路径质量而非盒模型，任何改动前请先标记回滚点。这些守则来自真实事故的沉淀，不是形式要求。
+**Gardener Agent's classification confidence**: The rule engine has a high accuracy in classifying conversations with obvious characteristics (containing a large amount of code, technical terms, etc.); for conversations with vague topics, cross-domain or highly personal nature, the confidence level will decrease. The current way the system handles this is by flagging low-confidence results and allowing users to manually correct them, which are recorded as feedback signals to fine-tune subsequent classification rules. However, this learning mechanism is still in its early stages and has limited effect on small sample users.
+
+**Absence of cross-device sync**: All data is stored locally in the browser, there is no cross-device sync capability. This is an active choice based on the Local-First value stance, rather than a limitation of technical capabilities - before introducing cloud synchronization, we need to design a solution that meets the end-to-end encryption requirements to ensure that the server cannot decrypt user data under any circumstances. This work has not yet begun.
+
+**Weekly Digest's frozen status**: The full version of Weekly Digest for Insights pages is currently frozen (`WEEKLY_DIGEST_SOON = true`), retaining placeholders but not claiming to be unblocked. The existing Insights page provides basic insight functions, and the complete weekly report capability will be launched after sufficient testing.
+
+**Fragility of multi-platform parsing**: The DOM structure of each AI platform may change after the platform is updated, triggering the failure of the Parser selector. Currently, flexibility is improved through the active and backup selector strategy, but this risk cannot be completely avoided and requires continuous Selector observation and special manual test maintenance.
+
+### Follow-up priority
+
+Based on the current engineering foundation and user feedback, we have the following judgments on the direction of subsequent iterations, arranged in order of priority:
+
+**P0: Scaling optimization of vector retrieval**. Introducing Web Worker asynchronous incremental vectorization to solve the performance bottleneck when a large number of conversations occur. At the same time, Explore's Conversational RAG is improved to support multi-round conversational local knowledge Q&A, upgrading from "single retrieval" to "continuous exploration".
+
+**P1: Data Dashboard from placeholder to read-only trend view**. Upgrade the current `Soon` status Dashboard to basic storage trend and conversation frequency visualization without introducing new write paths. At the same time, indicators such as `compactedThreads` in the Data page are upgraded from the current summary proxy caliber to strict compaction lineage statistics to eliminate semantic deviations.
+
+**P1: Weekly Digest Full Version**. Unlock the weekly reporting capability on the Insights page to support cross-week comparison and topic evolution tracking. This item relies on the stable operation of the vectorized infrastructure and therefore takes a back seat to optimization at scale.
+
+**P2: Exploration of optional encrypted synchronization schemes**. Explore end-to-end encrypted cross-device synchronization solutions while keeping Local-First as the default boundary. This is a major architectural decision that will not be moved forward quickly without adequate design review.
+
+**P2: Timing playback of Network Tab**. Adding a time dimension to the existing knowledge graph supports a "monthly replay" mode, allowing users to observe how topic nodes grow, shrink and migrate over time. This requires the introduction of timestamp indexes into the graph data structure. The amount of work is controllable, but the visual value is significant.
+
+> The roadmap only covers project feasibility priorities and does not include resource budgets and commercial schedules. We don't mark items on the roadmap as "done" ahead of time because of pressure to show. The status of each function will be faithfully presented in the product interface and documentation.
 
 ---
 
-## 📄 许可证
+## 🤝 Contribution Guide
 
-心迹采用 **MIT 许可证** 开源。你可以自由使用、修改和分发这个项目，只需保留原始的版权声明。我们相信开源精神与数据主权的理念是一致的——软件应该服务于人，而非控制人。
+Vesti is an open source project and we welcome contributions of any kind.
+
+If you find a bug or have feature suggestions during use, please submit a detailed description in **GitHub Issues**. If you want to contribute code, you can fork the repository and submit a **Pull Request**. Before submitting your code, make sure it passes TypeScript type checking and follows the project's coding style guidelines. We use Prettier for code formatting and ESLint for syntax checking. All submitted code should have clear comments and type definitions.
+
+Contributions in the following directions are particularly welcome: Parser implementation for new platforms, optimization suggestions for prompt word templates, improvements to vector retrieval performance, UI/UX improvements, and documentation improvements. If you want to participate in product design discussions or share your experience, please join our community channel.
+
+When submitting a PR that involves simultaneous changes to the UI and data path, please refer to the project engineering guidelines: style enhancements and data logic changes must be submitted separately. When troubleshooting visual anomalies, you should first check the quality of the data path instead of the box model. Please mark the rollback point before making any changes. These codes are derived from real accidents and are not formal requirements.
 
 ---
 
-## 🙏 致谢
+## 📄 License
 
-心迹的诞生离不开开源社区的贡献。我们使用了 **Plasmo**、**Dexie.js**、**Tailwind CSS**、**shadcn/ui**、**ECharts** 等优秀的开源项目，感谢这些工具的开发者。
+Vesti is open source under the **MIT License**. You are free to use, modify and distribute this project, as long as you retain the original copyright notice. We believe that the spirit of open source is consistent with the idea of ​​data sovereignty - software should serve people, not control them.
 
-我们也感谢 **ModelScope** 提供的模型推理与 Embedding API 基础设施——心迹的语义理解能力建立在这套 API 之上，而 Local-First 的设计哲学则确保了这种依赖关系不会演变成数据主权的让渡。
+---
 
-感谢 Claude 和 Codex 在产品设计和代码开发过程中提供的协助，这个项目本身就是人机协作的成果——用一个关于 AI 对话记忆的工具，来记录我们与 AI 协作构建这个工具的过程，这个递归性不是巧合，而是我们相信自己正在做一件真实有意义的事情的证据。
+## 🙏 Acknowledgments
 
-最重要的是，感谢每一位使用心迹的用户。你们的对话数据是私密的思维轨迹，选择信任我们的产品意味着很大的信心。**我们承诺始终坚持本地优先的原则，让数据主权牢牢掌握在你们手中。**
+The birth of Vesti is inseparable from the contributions of the open source community. We use **Plasmo**, **Dexie.js**, **Tailwind CSS**, **shadcn/ui**, **ECharts** and other excellent open source projects. We would like to thank the developers of these tools.
+
+We are also grateful to **ModelScope** for providing the model reasoning and Embedding API infrastructure - Vesti's semantic understanding capabilities are built on this set of APIs, and the Local-First design philosophy ensures that this dependency does not evolve into a transfer of data sovereignty.
+
+Thanks to Claude and Codex for their assistance in the product design and code development process, this project itself is the result of human-machine collaboration - using a tool about AI dialogue memory to record the process of us collaborating with AI to build this tool. This recursion is not a coincidence, but evidence that we believe we are doing something real and meaningful.
+
+Most importantly, thank you to everyone who uses Vesti. Your conversation data is a private thought track, and choosing to trust our products means a lot of confidence. **We promise to always adhere to the principle of local priority and keep data sovereignty firmly in your hands. **
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/心迹%20Vesti-让思维有迹可循-4B0082?style=for-the-badge&logo=sparkles&logoColor=FFD700&labelColor=20232A" alt="心迹 Vesti —— 让思维有迹可循">
+<img src="https://img.shields.io/badge/心迹%20Vesti-让思维有迹可循-4B0082?style=for-the-badge&logo=sparkles&logoColor=FFD700&labelColor=20232A" alt="Vesti Vesti - Make your thoughts traceable">
 </div>
 
 ---
@@ -669,10 +669,10 @@ The repository also contains a top-level `archive/` directory for historical pro
 - `documents/archive/` stores archived documentation only
 - active engineering work should continue to focus on `frontend/`, `packages/`, `vesti-web/`, and current canonical docs under `documents/`
 
-## 仓库归档区
+## Warehouse archive area
 
-仓库根目录中的 `archive/` 用于存放历史原型与试验工程资产。
+`archive/` in the root directory of the warehouse is used to store historical prototypes and experimental engineering assets.
 
-- `archive/` 归档的是仓库级历史代码和原型工程
-- `documents/archive/` 只归档文档
-- 当前活跃工程仍应以 `frontend/`、`packages/`、`vesti-web/` 以及 `documents/` 下的 canonical 文档为准
+- `archive/` archives warehouse-level historical code and prototype projects
+- `documents/archive/` only archives documents
+- The currently active projects should still be based on the canonical documents under `frontend/`, `packages/`, `vesti-web/` and `documents/`
