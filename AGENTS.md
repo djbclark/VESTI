@@ -26,14 +26,14 @@ This file, and discussion with the fork owner, may be English.
 
 1. Branch every DPR from `upstream/main`, not from fork `main`. Example: `git fetch upstream && git worktree add /tmp/vesti-pr -b feat/foo upstream/main`.
 2. Before opening a PR: `git diff --name-only upstream/main...HEAD` must **not** list `AGENTS.md`.
-3. Never `git push upstream`. Prefer a disabled push URL: `git remote set-url --push upstream DISABLE`.
+3. Never `git push upstream`. This clone already has `git remote set-url --push upstream DISABLE`.
 4. Do not squash/merge fork `main` into an upstream PR branch.
 
 ## DPR split (do not mix)
 
 | # | status | tracker | what |
 |---|---|---|---|
-| 1 | open | https://github.com/abraxas914/VESTI/pull/109 | Toolbar owl contrast |
+| 1 | waiting review | https://github.com/abraxas914/VESTI/pull/109 | Toolbar owl contrast (light + dark verified) |
 | 2 | blocked | https://github.com/djbclark/VESTI/issues/1 | BYOK region picker (China / International / US) |
 | 3 | blocked | https://github.com/djbclark/VESTI/issues/2 | English README/CHANGELOG as `documents/*.en.md` sidecars |
 
@@ -46,6 +46,8 @@ Chrome **does not honor** `action.theme_icons` (Firefox-only). A cream `default_
 Shipped approach: `manifest.action.default_icon` is a **dark owl + light halo** (`frontend/assets/icon-theme-contrast-{16,32,48,64,128}.png`). Plasmo shallow-merges `manifest.action`, so the package.json `action` block must include `default_icon` or Plasmo’s default is dropped.
 
 Asset paths are `../assets/…` relative to `frontend/.plasmo/`. Prod build rewrites them to flat hashed names (`icon-theme-contrast-16.<hash>.png`). Top-level Plasmo `icons` (CWS / `chrome://extensions` card) stay the original dark `icon.png`.
+
+Owner verified the unpacked build on Chrome default light appearance and dark toolbar. Claude Opus review: drop `theme_icons` (this repo has no Firefox target). That is on the PR. Head `5be7d11`. Leave #109 for upstream review; do not mix later work into it.
 
 Regenerate: `bash frontend/scripts/generate-toolbar-icons.sh` (ImageMagick `magick`). Do not reintroduce `theme_icons` or the old light/dark-only glyphs.
 
@@ -77,6 +79,7 @@ Plasmo Chrome MV3. Build: `pnpm -C frontend build` → load unpacked `frontend/b
 
 ## Working tree (as of 2026-08-22)
 
-- `/Users/djbclark/src/VESTI` — fork `main`, dirty with DPR 2+3 plus contrast icons copied for local load. Ahead of `origin/main` by upstream rc.9 merge commits. Do not dump this tree into an upstream PR.
-- `/tmp/vesti-icon-pr` — icon PR worktree, branch `fix/toolbar-icon-contrast`.
+- `/Users/djbclark/src/VESTI` — fork `main`, in sync with `origin/main` except a dirty worktree: uncommitted DPR 2+3 plus contrast icons copied for local load. Do not dump this tree into an upstream PR.
+- `/tmp/vesti-icon-pr` — icon PR worktree, branch `fix/toolbar-icon-contrast`, clean and tracking origin.
 - Unpacked load is from the main checkout’s `frontend/build/chrome-mv3-prod`.
+- Next human step: Alibaba Cloud international account verification, then PR issues #1 and #2. Nothing else is blocked on the owner for DPR 1.
